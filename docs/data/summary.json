@@ -1,13 +1,13 @@
 {
-  "run_id": "2026-01-27T13-23-37+00-00",
-  "time_utc": "2026-01-27T13:23:54+00:00",
+  "run_id": "2026-01-27T16-20-29+00-00",
+  "time_utc": "2026-01-27T16:20:46+00:00",
   "sites_ok": 5,
   "sites_error": 0,
   "totals": {
-    "new": 1,
-    "removed": 1,
-    "price": 167,
-    "restock": 5,
+    "new": 12,
+    "removed": 13,
+    "price": 115,
+    "restock": 2,
     "oos": 0
   }
 }
