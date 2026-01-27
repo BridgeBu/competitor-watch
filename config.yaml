@@ -2,6 +2,7 @@ schedule:
   keep_snapshots: 40
   max_products_per_site: 800
   request_timeout_sec: 20
+  baseline_days: 3
 
 sites:
   - id: "brand_a"
