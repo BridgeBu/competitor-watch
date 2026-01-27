@@ -11,8 +11,6 @@ on:
 permissions:
   contents: write
 
-baseline_days: 3
-
 jobs:
   run:
     runs-on: ubuntu-latest
