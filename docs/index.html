@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -10,12 +9,16 @@
 <body>
   <header class="wrap">
     <h1>Competitor Watch</h1>
-    <div id="meta" class="muted"></div>
+    <div class="header-row">
+      <div id="meta" class="muted"></div>
+      <button id="refreshBtn" class="btn" type="button">强制刷新</button>
+    </div>
   </header>
 
   <main class="wrap">
     <section class="card">
       <h2>今日变化总览</h2>
+      <div class="muted note">商品变动：与<strong>3 天前</strong>的快照对比</div>
       <div id="overview" class="grid"></div>
     </section>
 
@@ -25,7 +28,7 @@
     </section>
 
     <section class="card">
-      <h2>Errors</h2>
+      <h2>错误</h2>
       <div id="errors" class="muted"></div>
     </section>
   </main>
@@ -33,4 +36,3 @@
   <script src="app.js"></script>
 </body>
 </html>
-

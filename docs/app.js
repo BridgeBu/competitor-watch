@@ -330,6 +330,11 @@ function renderSite(site) {
       <div style="margin-top:12px;">
         <div class="section-title" style="margin-bottom:8px;">商品变动</div>
         ${changePills}
+        <div class="muted" style="margin-top:8px;">
+          ${site.baseline_time_utc
+            ? `对比基准：与 ${site.baseline_days || 3} 天前的快照对比（基准时间 UTC：${escapeHtml(site.baseline_time_utc)}）`
+            : `对比基准：历史快照不足 ${site.baseline_days || 3} 天，暂用最近可用快照作为基准`}
+        </div>
         ${changesByCategoryBlock}
       </div>
 
@@ -375,3 +380,13 @@ async function main() {
 }
 
 main();
+
+// Force refresh: cache-bust the page URL so GitHub Pages/CDN cannot serve stale JSON
+const refreshBtn = document.getElementById("refreshBtn");
+if (refreshBtn) {
+  refreshBtn.addEventListener("click", () => {
+    const url = new URL(window.location.href);
+    url.searchParams.set("t", String(Date.now()));
+    window.location.replace(url.toString());
+  });
+}
