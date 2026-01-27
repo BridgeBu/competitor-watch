@@ -1,5 +1,5 @@
 schedule:
-  keep_snapshots: 40
+  keep_snapshots: 300
   max_products_per_site: 800
   request_timeout_sec: 20
   baseline_days: 3
