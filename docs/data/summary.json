@@ -1,0 +1,13 @@
+{
+  "run_id": "2026-01-27T08-45-33+00-00",
+  "time_utc": "2026-01-27T08:46:06+00:00",
+  "sites_ok": 5,
+  "sites_error": 0,
+  "totals": {
+    "new": 0,
+    "removed": 0,
+    "price": 76,
+    "restock": 0,
+    "oos": 0
+  }
+}

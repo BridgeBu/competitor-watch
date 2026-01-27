@@ -1,0 +1,95 @@
+schedule:
+  keep_snapshots: 40
+  max_products_per_site: 800
+  request_timeout_sec: 20
+
+sites:
+  - id: "brand_a"
+    name: "Missoma"
+    base_url: "https://www.missoma.com"
+    currency_symbol: "€"
+    currency_code: "EUR"
+    categories:
+      - label: "Earrings"
+        url: "https://www.missoma.com/collections/earrings"
+      - label: "Necklaces"
+        url: "https://www.missoma.com/collections/necklaces"
+      - label: "Rings"
+        url: "https://www.missoma.com/collections/rings"
+    variant_name_priority:
+      - "Material"
+      - "Finish"
+      - "Color"
+    retries: 2
+
+  - id: "brand_b"
+    name: "AstridandmMiyu"
+    base_url: "https://us.astridandmiyu.com/"
+    currency_symbol: "€"
+    currency_code: "EUR"
+    categories:
+      - label: "Earrings"
+        url: "https://us.astridandmiyu.com/collections/earrings"
+      - label: "Necklaces"
+        url: "https://us.astridandmiyu.com/collections/necklaces"
+      - label: "Rings"
+        url: "https://us.astridandmiyu.com/collections/rings"
+    variant_name_priority:
+      - "Material"
+      - "Finish"
+      - "Color"
+    retries: 2
+
+  - id: "brand_c"
+    name: "Adornmonde"
+    base_url: "https://www.adornmonde.com/"
+    currency_symbol: "€"
+    currency_code: "EUR"
+    categories:
+      - label: "Earrings"
+        url: "https://www.adornmonde.com/collections/fine-demi-fine-earrings"
+      - label: "Necklaces"
+        url: "https://www.adornmonde.com/collections/fine-demi-fine-necklaces"
+      - label: "Rings"
+        url: "https://www.adornmonde.com/collections/fine-demi-fine-rings"
+    variant_name_priority:
+      - "Material"
+      - "Finish"
+      - "Color"
+    retries: 2
+
+  - id: "brand_d"
+    name: "Cinco"
+    base_url: "https://us.cinco-store.com/"
+    currency_symbol: "€"
+    currency_code: "EUR"
+    categories:
+      - label: "Earrings"
+        url: "https://cinco-store.com/collections/earrings"
+      - label: "Necklaces"
+        url: "https://cinco-store.com/collections/necklaces"
+      - label: "Rings"
+        url: "https://cinco-store.com/collections/rings"
+    variant_name_priority:
+      - "Material"
+      - "Finish"
+      - "Color"
+    retries: 2
+
+  - id: "brand_f"
+    name: "StilNest"
+    base_url: "https://en.stilnest.com/"
+    currency_symbol: "€"
+    currency_code: "EUR"
+    categories:
+      - label: "Earrings"
+        url: "https://en.stilnest.com/collections/ohrringe-designs"
+      - label: "Necklaces"
+        url: "https://en.stilnest.com/collections/ketten-designs"
+      - label: "Rings"
+        url: "https://en.stilnest.com/collections/ringe-designs"
+    variant_name_priority:
+      - "Material"
+      - "Finish"
+      - "Color"
+    retries: 2
