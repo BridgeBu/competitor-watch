@@ -77,18 +77,18 @@ sites:
       - "Color"
     retries: 2
 
-  - id: "brand_f"
-    name: "StilNest"
-    base_url: "https://en.stilnest.com/"
+  - id: "brand_g"
+    name: "Analuisa"
+    base_url: "https://www.analuisa.com/"
     currency_symbol: "€"
     currency_code: "EUR"
     categories:
       - label: "Earrings"
-        url: "https://en.stilnest.com/collections/ohrringe-designs"
+        url: "https://www.analuisa.com/collections/shop-earrings"
       - label: "Necklaces"
-        url: "https://en.stilnest.com/collections/ketten-designs"
+        url: "https://www.analuisa.com/collections/necklaces"
       - label: "Rings"
-        url: "https://en.stilnest.com/collections/ringe-designs"
+        url: "https://www.analuisa.com/collections/rings"
     variant_name_priority:
       - "Material"
       - "Finish"
