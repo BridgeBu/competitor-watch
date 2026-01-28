@@ -54,9 +54,29 @@ def load_snapshot_days_ago(snap_dir, site_id, days=3):
 
     if best is not None:
         return best
-
-    # Fallback: latest snapshot
-    return load_latest_snapshot(snap_dir, site_id)
+    
+    # Fallback (history < days): use the earliest snapshot as baseline
+    oldest = None
+    oldest_t = None
+    
+    for fpath in files:
+        try:
+            with open(fpath, "r", encoding="utf-8") as f:
+                snap = json.load(f)
+            t_raw = snap.get("time_utc")
+            if not t_raw:
+                continue
+            t = datetime.fromisoformat(t_raw)
+            if t.tzinfo is None:
+                t = t.replace(tzinfo=timezone.utc)
+    
+            if oldest_t is None or t < oldest_t:
+                oldest = snap
+                oldest_t = t
+        except Exception:
+            continue
+    
+    return oldest or load_latest_snapshot(snap_dir, site_id)
 
 
 def save_snapshot(snap_dir, site_id, snapshot):
