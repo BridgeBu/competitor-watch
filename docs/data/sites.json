@@ -2350,6 +2350,21 @@
       },
       {
         "type": "NEW",
+        "title": "Enamel & Stone Dome Statement Ring",
+        "variant_label": "18ct Gold Vermeil/Midnight Blue / K",
+        "category": "Rings",
+        "old_price": null,
+        "new_price": [
+          129.0,
+          129.0
+        ],
+        "available_before": null,
+        "available_now": true,
+        "url": "https://www.missoma.com/products/enamel-stone-dome-statement-ring-18ct-gold-plated-vermeil-midnight-blue",
+        "key": "shopify:enamel-stone-dome-statement-ring-18ct-gold-plated-vermeil-midnight-blue"
+      },
+      {
+        "type": "NEW",
         "title": "Enamel & Stone Dome Statement Ring | 18ct Gold Vermeil/Black",
         "variant_label": "18ct Gold Vermeil/Black / K",
         "category": "Rings",
@@ -2452,21 +2467,6 @@
         "available_now": true,
         "url": "https://www.missoma.com/products/engravable-small-tag-pendant-necklace-18ct-gold-plated-vermeil",
         "key": "shopify:engravable-small-tag-pendant-necklace-18ct-gold-plated-vermeil"
-      },
-      {
-        "type": "NEW",
-        "title": "Eny Puffy Daisy Pendant Necklace | 18ct Gold Plated/Pearl",
-        "variant_label": "18ct Gold Plated/Pearl",
-        "category": "Necklaces",
-        "old_price": null,
-        "new_price": [
-          115.0,
-          115.0
-        ],
-        "available_before": null,
-        "available_now": true,
-        "url": "https://www.missoma.com/products/eny-puffy-daisy-pendant-necklace-18ct-gold-plated",
-        "key": "shopify:eny-puffy-daisy-pendant-necklace-18ct-gold-plated"
       },
       {
         "type": "NEW",
@@ -5239,7 +5239,7 @@
           249.0
         ],
         "available_before": null,
-        "available_now": true,
+        "available_now": false,
         "url": "https://www.missoma.com/products/lucy-williams-knot-torque-necklace-18ct-gold-plated",
         "key": "shopify:lucy-williams-knot-torque-necklace-18ct-gold-plated"
       },
@@ -7877,8 +7877,8 @@
     "baseline_time_utc": "2026-01-27T05:58:11+00:00",
     "sku_by_category": {
       "Earrings": 282,
-      "Necklaces": 457,
-      "Rings": 61
+      "Necklaces": 456,
+      "Rings": 62
     },
     "price_buckets_total": {
       "0-50": 34,
@@ -7898,14 +7898,14 @@
       "Necklaces": {
         "0-50": 2,
         "50-100": 26,
-        "100-150": 163,
+        "100-150": 162,
         "150-200": 132,
         "200+": 134
       },
       "Rings": {
         "0-50": 0,
         "50-100": 27,
-        "100-150": 18,
+        "100-150": 19,
         "150-200": 4,
         "200+": 12
       }
@@ -11038,15 +11038,6 @@
           "url": "https://www.missoma.com/products/engravable-round-necklace-sterling-silver"
         },
         {
-          "key": "shopify:eny-puffy-daisy-pendant-necklace-18ct-gold-plated",
-          "title": "Eny Puffy Daisy Pendant Necklace | 18ct Gold Plated/Pearl",
-          "variant_label": "18ct Gold Plated/Pearl",
-          "min_price": 115.0,
-          "max_price": 115.0,
-          "available": true,
-          "url": "https://www.missoma.com/products/eny-puffy-daisy-pendant-necklace-18ct-gold-plated"
-        },
-        {
           "key": "shopify:star-ridge-birthstone-pendant-necklace-amethyst-february-sterling-silver",
           "title": "February Birthstone Pendant Necklace | Amethyst/Sterling Silver",
           "variant_label": "Sterling Silver/Amethyst",
@@ -13518,7 +13509,7 @@
           "variant_label": "18ct Gold Plated/Silver Plated",
           "min_price": 249.0,
           "max_price": 249.0,
-          "available": true,
+          "available": false,
           "url": "https://www.missoma.com/products/lucy-williams-knot-torque-necklace-18ct-gold-plated"
         },
         {
@@ -14928,6 +14919,15 @@
           "url": "https://www.missoma.com/products/savi-signature-stacking-ring-18ct-gold-vermeil"
         },
         {
+          "key": "shopify:enamel-stone-dome-statement-ring-18ct-gold-plated-vermeil-midnight-blue",
+          "title": "Enamel & Stone Dome Statement Ring",
+          "variant_label": "18ct Gold Vermeil/Midnight Blue / K",
+          "min_price": 129.0,
+          "max_price": 129.0,
+          "available": true,
+          "url": "https://www.missoma.com/products/enamel-stone-dome-statement-ring-18ct-gold-plated-vermeil-midnight-blue"
+        },
+        {
           "key": "shopify:enamel-stone-dome-statement-ring-18ct-gold-plated-vermeil-black",
           "title": "Enamel & Stone Dome Statement Ring | 18ct Gold Vermeil/Black",
           "variant_label": "18ct Gold Vermeil/Black / K",
@@ -15121,8 +15121,8 @@
     "product_total": 800,
     "product_status": {
       "total": 800,
-      "in_stock": 773,
-      "oos": 27
+      "in_stock": 772,
+      "oos": 28
     },
     "bestsellers": [
       {
@@ -15928,6 +15928,21 @@
       },
       {
         "type": "NEW",
+        "title": "Molten Charm Lariat Necklace in Silver",
+        "variant_label": "",
+        "category": "Necklaces",
+        "old_price": null,
+        "new_price": [
+          100.0,
+          100.0
+        ],
+        "available_before": null,
+        "available_now": true,
+        "url": "https://us.astridandmiyu.com/products/molten-charm-lariat-necklace-in-silver",
+        "key": "shopify:molten-charm-lariat-necklace-in-silver"
+      },
+      {
+        "type": "NEW",
         "title": "Molten Daith Ring in Solid Gold",
         "variant_label": "6mm",
         "category": "Rings",
@@ -16378,6 +16393,24 @@
       },
       {
         "type": "RESTOCK",
+        "title": "Bold Essential Huggies in Gold",
+        "variant_label": "",
+        "category": "Earrings",
+        "old_price": [
+          80.0,
+          80.0
+        ],
+        "new_price": [
+          80.0,
+          80.0
+        ],
+        "available_before": false,
+        "available_now": true,
+        "url": "https://us.astridandmiyu.com/products/bold-essential-huggies-in-gold",
+        "key": "shopify:bold-essential-huggies-in-gold"
+      },
+      {
+        "type": "RESTOCK",
         "title": "Cluster Hoop 6.5mm in Gold",
         "variant_label": "",
         "category": "Earrings",
@@ -16393,6 +16426,114 @@
         "available_now": true,
         "url": "https://us.astridandmiyu.com/products/single-cluster-hoop-in-gold",
         "key": "shopify:single-cluster-hoop-in-gold"
+      },
+      {
+        "type": "RESTOCK",
+        "title": "Cosmic Star Piercing Stud in Solid Gold",
+        "variant_label": "",
+        "category": "Earrings",
+        "old_price": [
+          190.0,
+          190.0
+        ],
+        "new_price": [
+          190.0,
+          190.0
+        ],
+        "available_before": false,
+        "available_now": true,
+        "url": "https://us.astridandmiyu.com/products/four-point-star-piercing-stud-in-solid-gold",
+        "key": "shopify:four-point-star-piercing-stud-in-solid-gold"
+      },
+      {
+        "type": "RESTOCK",
+        "title": "Diamond Charm Huggies in Solid White Gold",
+        "variant_label": "",
+        "category": "Earrings",
+        "old_price": [
+          520.0,
+          520.0
+        ],
+        "new_price": [
+          520.0,
+          520.0
+        ],
+        "available_before": false,
+        "available_now": true,
+        "url": "https://us.astridandmiyu.com/products/diamond-charm-huggies-in-solid-white-gold",
+        "key": "shopify:diamond-charm-huggies-in-solid-white-gold"
+      },
+      {
+        "type": "RESTOCK",
+        "title": "Dolphin Piercing Stud in Solid White Gold",
+        "variant_label": "",
+        "category": "Earrings",
+        "old_price": [
+          205.0,
+          205.0
+        ],
+        "new_price": [
+          205.0,
+          205.0
+        ],
+        "available_before": false,
+        "available_now": true,
+        "url": "https://us.astridandmiyu.com/products/dolphin-piercing-stud-in-solid-white-gold",
+        "key": "shopify:dolphin-piercing-stud-in-solid-white-gold"
+      },
+      {
+        "type": "RESTOCK",
+        "title": "Essential 11.5mm Hoop in Gold",
+        "variant_label": "",
+        "category": "Earrings",
+        "old_price": [
+          65.0,
+          65.0
+        ],
+        "new_price": [
+          65.0,
+          65.0
+        ],
+        "available_before": false,
+        "available_now": true,
+        "url": "https://us.astridandmiyu.com/products/rounded-hoop-11-5mm-in-gold",
+        "key": "shopify:rounded-hoop-11-5mm-in-gold"
+      },
+      {
+        "type": "RESTOCK",
+        "title": "Essential 6.5mm Hoop in Silver",
+        "variant_label": "",
+        "category": "Earrings",
+        "old_price": [
+          50.0,
+          50.0
+        ],
+        "new_price": [
+          50.0,
+          50.0
+        ],
+        "available_before": false,
+        "available_now": true,
+        "url": "https://us.astridandmiyu.com/products/rounded-hoop-6-5mm-in-silver",
+        "key": "shopify:rounded-hoop-6-5mm-in-silver"
+      },
+      {
+        "type": "RESTOCK",
+        "title": "Floating Diamond Small Piercing Stud in Solid White Gold",
+        "variant_label": "",
+        "category": "Earrings",
+        "old_price": [
+          195.0,
+          195.0
+        ],
+        "new_price": [
+          195.0,
+          195.0
+        ],
+        "available_before": false,
+        "available_now": true,
+        "url": "https://us.astridandmiyu.com/products/floating-diamond-small-piercing-stud-in-solid-white-gold",
+        "key": "shopify:floating-diamond-small-piercing-stud-in-solid-white-gold"
       },
       {
         "type": "RESTOCK",
@@ -16414,6 +16555,96 @@
       },
       {
         "type": "RESTOCK",
+        "title": "Lilac Enamel Wave Piercing Stud in Solid Gold",
+        "variant_label": "",
+        "category": "Earrings",
+        "old_price": [
+          230.0,
+          230.0
+        ],
+        "new_price": [
+          230.0,
+          230.0
+        ],
+        "available_before": false,
+        "available_now": true,
+        "url": "https://us.astridandmiyu.com/products/lilac-enamel-wave-piercing-stud-in-solid-gold",
+        "key": "shopify:lilac-enamel-wave-piercing-stud-in-solid-gold"
+      },
+      {
+        "type": "RESTOCK",
+        "title": "Ombré Wave Piercing Stud in Solid Gold",
+        "variant_label": "",
+        "category": "Earrings",
+        "old_price": [
+          230.0,
+          230.0
+        ],
+        "new_price": [
+          230.0,
+          230.0
+        ],
+        "available_before": false,
+        "available_now": true,
+        "url": "https://us.astridandmiyu.com/products/ombre-wave-piercing-stud-in-solid-gold",
+        "key": "shopify:ombre-wave-piercing-stud-in-solid-gold"
+      },
+      {
+        "type": "RESTOCK",
+        "title": "Ombré Wave Piercing Stud in Solid White Gold",
+        "variant_label": "",
+        "category": "Earrings",
+        "old_price": [
+          230.0,
+          230.0
+        ],
+        "new_price": [
+          230.0,
+          230.0
+        ],
+        "available_before": false,
+        "available_now": true,
+        "url": "https://us.astridandmiyu.com/products/ombre-wave-piercing-stud-in-solid-white-gold",
+        "key": "shopify:ombre-wave-piercing-stud-in-solid-white-gold"
+      },
+      {
+        "type": "RESTOCK",
+        "title": "Opal Bezel Pendant Necklace in Gold",
+        "variant_label": "",
+        "category": "Necklaces",
+        "old_price": [
+          125.0,
+          125.0
+        ],
+        "new_price": [
+          125.0,
+          125.0
+        ],
+        "available_before": false,
+        "available_now": true,
+        "url": "https://us.astridandmiyu.com/products/opal-bezel-pendant-necklace-in-gold",
+        "key": "shopify:opal-bezel-pendant-necklace-in-gold"
+      },
+      {
+        "type": "RESTOCK",
+        "title": "Opal Charm Drop Studs in Silver",
+        "variant_label": "",
+        "category": "Earrings",
+        "old_price": [
+          80.0,
+          80.0
+        ],
+        "new_price": [
+          80.0,
+          80.0
+        ],
+        "available_before": false,
+        "available_now": true,
+        "url": "https://us.astridandmiyu.com/products/opal-pear-chain-drop-studs-in-silver",
+        "key": "shopify:opal-pear-chain-drop-studs-in-silver"
+      },
+      {
+        "type": "RESTOCK",
         "title": "Pear Crystal Stud Earrings in Silver",
         "variant_label": "",
         "category": "Earrings",
@@ -16429,26 +16660,62 @@
         "available_now": true,
         "url": "https://us.astridandmiyu.com/products/pear-crystal-stud-earrings-in-silver",
         "key": "shopify:pear-crystal-stud-earrings-in-silver"
+      },
+      {
+        "type": "RESTOCK",
+        "title": "Solid Gold Teardrop Piercing Stud",
+        "variant_label": "6mm",
+        "category": "Earrings",
+        "old_price": [
+          230.0,
+          230.0
+        ],
+        "new_price": [
+          230.0,
+          230.0
+        ],
+        "available_before": false,
+        "available_now": true,
+        "url": "https://us.astridandmiyu.com/products/solid-gold-teardrop-piercing-stud-1",
+        "key": "shopify:solid-gold-teardrop-piercing-stud-1"
+      },
+      {
+        "type": "RESTOCK",
+        "title": "Topaz Wave Piercing Stud 6mm in Solid White Gold",
+        "variant_label": "",
+        "category": "Earrings",
+        "old_price": [
+          230.0,
+          230.0
+        ],
+        "new_price": [
+          230.0,
+          230.0
+        ],
+        "available_before": false,
+        "available_now": true,
+        "url": "https://us.astridandmiyu.com/products/topaz-wave-piercing-stud-6mm-in-solid-white-gold-1",
+        "key": "shopify:topaz-wave-piercing-stud-6mm-in-solid-white-gold-1"
       }
     ],
     "counts": {
-      "new": 60,
+      "new": 61,
       "removed": 12,
       "price": 0,
-      "restock": 3,
+      "restock": 17,
       "oos": 0
     },
     "baseline_days": 3,
     "baseline_time_utc": "2026-01-27T06:29:15+00:00",
     "sku_by_category": {
       "Earrings": 461,
-      "Necklaces": 278,
+      "Necklaces": 279,
       "Rings": 60
     },
     "price_buckets_total": {
       "0-50": 0,
       "50-100": 184,
-      "100-150": 163,
+      "100-150": 164,
       "150-200": 87,
       "200+": 365
     },
@@ -16463,7 +16730,7 @@
       "Necklaces": {
         "0-50": 0,
         "50-100": 3,
-        "100-150": 85,
+        "100-150": 86,
         "150-200": 24,
         "200+": 166
       },
@@ -16501,7 +16768,7 @@
           "variant_label": "",
           "min_price": 50.0,
           "max_price": 50.0,
-          "available": false,
+          "available": true,
           "url": "https://us.astridandmiyu.com/products/rounded-hoop-6-5mm-in-silver"
         },
         {
@@ -16843,7 +17110,7 @@
           "variant_label": "",
           "min_price": 65.0,
           "max_price": 65.0,
-          "available": false,
+          "available": true,
           "url": "https://us.astridandmiyu.com/products/rounded-hoop-11-5mm-in-gold"
         },
         {
@@ -17401,7 +17668,7 @@
           "variant_label": "",
           "min_price": 80.0,
           "max_price": 80.0,
-          "available": false,
+          "available": true,
           "url": "https://us.astridandmiyu.com/products/bold-essential-huggies-in-gold"
         },
         {
@@ -17635,7 +17902,7 @@
           "variant_label": "",
           "min_price": 80.0,
           "max_price": 80.0,
-          "available": false,
+          "available": true,
           "url": "https://us.astridandmiyu.com/products/opal-pear-chain-drop-studs-in-silver"
         },
         {
@@ -18976,7 +19243,7 @@
           "variant_label": "",
           "min_price": 190.0,
           "max_price": 190.0,
-          "available": false,
+          "available": true,
           "url": "https://us.astridandmiyu.com/products/four-point-star-piercing-stud-in-solid-gold"
         },
         {
@@ -19084,7 +19351,7 @@
           "variant_label": "",
           "min_price": 195.0,
           "max_price": 195.0,
-          "available": false,
+          "available": true,
           "url": "https://us.astridandmiyu.com/products/floating-diamond-small-piercing-stud-in-solid-white-gold"
         },
         {
@@ -19147,7 +19414,7 @@
           "variant_label": "",
           "min_price": 205.0,
           "max_price": 205.0,
-          "available": false,
+          "available": true,
           "url": "https://us.astridandmiyu.com/products/dolphin-piercing-stud-in-solid-white-gold"
         },
         {
@@ -19426,7 +19693,7 @@
           "variant_label": "",
           "min_price": 230.0,
           "max_price": 230.0,
-          "available": false,
+          "available": true,
           "url": "https://us.astridandmiyu.com/products/lilac-enamel-wave-piercing-stud-in-solid-gold"
         },
         {
@@ -19435,7 +19702,7 @@
           "variant_label": "",
           "min_price": 230.0,
           "max_price": 230.0,
-          "available": false,
+          "available": true,
           "url": "https://us.astridandmiyu.com/products/ombre-wave-piercing-stud-in-solid-gold"
         },
         {
@@ -19444,7 +19711,7 @@
           "variant_label": "",
           "min_price": 230.0,
           "max_price": 230.0,
-          "available": false,
+          "available": true,
           "url": "https://us.astridandmiyu.com/products/ombre-wave-piercing-stud-in-solid-white-gold"
         },
         {
@@ -19453,7 +19720,7 @@
           "variant_label": "6mm",
           "min_price": 230.0,
           "max_price": 230.0,
-          "available": false,
+          "available": true,
           "url": "https://us.astridandmiyu.com/products/solid-gold-teardrop-piercing-stud-1"
         },
         {
@@ -19498,7 +19765,7 @@
           "variant_label": "",
           "min_price": 230.0,
           "max_price": 230.0,
-          "available": false,
+          "available": true,
           "url": "https://us.astridandmiyu.com/products/topaz-wave-piercing-stud-6mm-in-solid-white-gold-1"
         },
         {
@@ -20362,7 +20629,7 @@
           "variant_label": "",
           "min_price": 520.0,
           "max_price": 520.0,
-          "available": false,
+          "available": true,
           "url": "https://us.astridandmiyu.com/products/diamond-charm-huggies-in-solid-white-gold"
         },
         {
@@ -20656,6 +20923,15 @@
           "url": "https://us.astridandmiyu.com/products/essential-crystal-pendant-necklace-in-silver"
         },
         {
+          "key": "shopify:molten-charm-lariat-necklace-in-silver",
+          "title": "Molten Charm Lariat Necklace in Silver",
+          "variant_label": "",
+          "min_price": 100.0,
+          "max_price": 100.0,
+          "available": true,
+          "url": "https://us.astridandmiyu.com/products/molten-charm-lariat-necklace-in-silver"
+        },
+        {
           "key": "shopify:twilight-star-pendant-necklace-in-gold",
           "title": "Twilight Star Pendant Necklace in Gold",
           "variant_label": "",
@@ -20823,7 +21099,7 @@
           "variant_label": "",
           "min_price": 125.0,
           "max_price": 125.0,
-          "available": false,
+          "available": true,
           "url": "https://us.astridandmiyu.com/products/opal-bezel-pendant-necklace-in-gold"
         },
         {
@@ -23674,11 +23950,11 @@
         }
       ]
     },
-    "product_total": 799,
+    "product_total": 800,
     "product_status": {
-      "total": 799,
-      "in_stock": 661,
-      "oos": 138
+      "total": 800,
+      "in_stock": 676,
+      "oos": 124
     },
     "bestsellers": [
       {
@@ -23953,6 +24229,42 @@
       },
       {
         "type": "OOS",
+        "title": "James micro heart piercing",
+        "variant_label": "",
+        "category": "Earrings",
+        "old_price": [
+          126.0,
+          126.0
+        ],
+        "new_price": [
+          126.0,
+          126.0
+        ],
+        "available_before": true,
+        "available_now": false,
+        "url": "https://www.adornmonde.com/products/james-micro-heart-piercing-gold",
+        "key": "shopify:james-micro-heart-piercing-gold"
+      },
+      {
+        "type": "OOS",
+        "title": "Kiwi cage clicker hoop",
+        "variant_label": "",
+        "category": "Earrings",
+        "old_price": [
+          136.0,
+          136.0
+        ],
+        "new_price": [
+          136.0,
+          136.0
+        ],
+        "available_before": true,
+        "available_now": false,
+        "url": "https://www.adornmonde.com/products/kiwi-cage-clicker-hoop-gold",
+        "key": "shopify:kiwi-cage-clicker-hoop-gold"
+      },
+      {
+        "type": "OOS",
         "title": "Tran 6-piece earring set",
         "variant_label": "",
         "category": "Earrings",
@@ -24011,7 +24323,7 @@
       "removed": 0,
       "price": 0,
       "restock": 2,
-      "oos": 1
+      "oos": 3
     },
     "baseline_days": 3,
     "baseline_time_utc": "2026-01-27T06:29:18+00:00",
@@ -24742,7 +25054,7 @@
           "variant_label": "",
           "min_price": 126.0,
           "max_price": 126.0,
-          "available": true,
+          "available": false,
           "url": "https://www.adornmonde.com/products/james-micro-heart-piercing-gold"
         },
         {
@@ -24976,7 +25288,7 @@
           "variant_label": "",
           "min_price": 136.0,
           "max_price": 136.0,
-          "available": true,
+          "available": false,
           "url": "https://www.adornmonde.com/products/kiwi-cage-clicker-hoop-gold"
         },
         {
@@ -28489,8 +28801,8 @@
     "product_total": 492,
     "product_status": {
       "total": 492,
-      "in_stock": 437,
-      "oos": 55
+      "in_stock": 435,
+      "oos": 57
     },
     "bestsellers": [
       {
@@ -28586,7 +28898,7 @@
         "variant_label": "",
         "min_price": 136.0,
         "max_price": 136.0,
-        "available": true,
+        "available": false,
         "url": "https://www.adornmonde.com/products/kiwi-cage-clicker-hoop-gold"
       },
       {
@@ -28666,28 +28978,13 @@
     "changes": [
       {
         "type": "NEW",
-        "title": "carnelian collar",
-        "variant_label": "",
-        "category": "Necklaces",
-        "old_price": null,
-        "new_price": [
-          117.0,
-          117.0
-        ],
-        "available_before": null,
-        "available_now": true,
-        "url": "https://us.cinco-store.com/products/carnelian-collar",
-        "key": "shopify:carnelian-collar"
-      },
-      {
-        "type": "NEW",
         "title": "flower 18k diamonds earrings",
         "variant_label": "",
         "category": "Earrings",
         "old_price": null,
         "new_price": [
-          1471.0,
-          1471.0
+          1472.0,
+          1472.0
         ],
         "available_before": null,
         "available_now": true,
@@ -28701,8 +28998,8 @@
         "category": "Necklaces",
         "old_price": null,
         "new_price": [
-          2111.0,
-          2111.0
+          2112.0,
+          2112.0
         ],
         "available_before": null,
         "available_now": true,
@@ -28716,8 +29013,8 @@
         "category": "Necklaces",
         "old_price": null,
         "new_price": [
-          2173.0,
-          2173.0
+          2174.0,
+          2174.0
         ],
         "available_before": null,
         "available_now": true,
@@ -28761,8 +29058,8 @@
         "category": "Necklaces",
         "old_price": null,
         "new_price": [
-          5755.0,
-          5755.0
+          5758.0,
+          5758.0
         ],
         "available_before": null,
         "available_now": true,
@@ -29391,8 +29688,8 @@
           369.0
         ],
         "new_price": [
-          371.0,
-          371.0
+          372.0,
+          372.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29499,8 +29796,8 @@
           1495.0
         ],
         "new_price": [
-          1503.0,
-          1503.0
+          1504.0,
+          1504.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29517,8 +29814,8 @@
           6041.0
         ],
         "new_price": [
-          6075.0,
-          6075.0
+          6078.0,
+          6078.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29733,8 +30030,8 @@
           4006.0
         ],
         "new_price": [
-          4029.0,
-          4029.0
+          4031.0,
+          4031.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29751,8 +30048,8 @@
           4133.0
         ],
         "new_price": [
-          4157.0,
-          4157.0
+          4159.0,
+          4159.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29895,8 +30192,8 @@
           2277.0
         ],
         "new_price": [
-          2290.0,
-          2290.0
+          2291.0,
+          2291.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30039,8 +30336,8 @@
           1622.0
         ],
         "new_price": [
-          1631.0,
-          1631.0
+          1632.0,
+          1632.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30255,8 +30552,8 @@
           1463.0
         ],
         "new_price": [
-          1471.0,
-          1471.0
+          1472.0,
+          1472.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30273,8 +30570,8 @@
           1144.0
         ],
         "new_price": [
-          1150.0,
-          1150.0
+          1151.0,
+          1151.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30291,8 +30588,8 @@
           2531.0
         ],
         "new_price": [
-          2545.0,
-          2545.0
+          2547.0,
+          2547.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30309,8 +30606,8 @@
           2226.0
         ],
         "new_price": [
-          2239.0,
-          2239.0
+          2240.0,
+          2240.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30849,8 +31146,8 @@
           889.0
         ],
         "new_price": [
-          894.0,
-          894.0
+          895.0,
+          895.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30867,8 +31164,8 @@
           889.0
         ],
         "new_price": [
-          894.0,
-          894.0
+          895.0,
+          895.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30885,8 +31182,8 @@
           889.0
         ],
         "new_price": [
-          894.0,
-          894.0
+          895.0,
+          895.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30975,8 +31272,8 @@
           1304.0
         ],
         "new_price": [
-          1311.0,
-          1311.0
+          1312.0,
+          1312.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31119,8 +31416,8 @@
           1908.0
         ],
         "new_price": [
-          1919.0,
-          1919.0
+          1920.0,
+          1920.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31137,8 +31434,8 @@
           2830.0
         ],
         "new_price": [
-          2846.0,
-          2846.0
+          2847.0,
+          2847.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31191,8 +31488,8 @@
           6677.0
         ],
         "new_price": [
-          6715.0,
-          6715.0
+          6718.0,
+          6718.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31335,8 +31632,8 @@
           5024.0
         ],
         "new_price": [
-          5052.0,
-          5052.0
+          5054.0,
+          5054.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31371,8 +31668,8 @@
           1525.0
         ],
         "new_price": [
-          1534.0,
-          1534.0
+          1535.0,
+          1535.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31425,8 +31722,8 @@
           1209.0
         ],
         "new_price": [
-          1215.0,
-          1215.0
+          1216.0,
+          1216.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31461,8 +31758,8 @@
           1525.0
         ],
         "new_price": [
-          1534.0,
-          1534.0
+          1535.0,
+          1535.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31479,8 +31776,8 @@
           4133.0
         ],
         "new_price": [
-          4157.0,
-          4157.0
+          4159.0,
+          4159.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31551,8 +31848,8 @@
           1590.0
         ],
         "new_price": [
-          1599.0,
-          1599.0
+          1600.0,
+          1600.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31587,8 +31884,8 @@
           369.0
         ],
         "new_price": [
-          371.0,
-          371.0
+          372.0,
+          372.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31605,8 +31902,8 @@
           4133.0
         ],
         "new_price": [
-          4157.0,
-          4157.0
+          4159.0,
+          4159.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31623,8 +31920,8 @@
           2798.0
         ],
         "new_price": [
-          2814.0,
-          2814.0
+          2815.0,
+          2815.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31641,13 +31938,31 @@
           9220.0
         ],
         "new_price": [
-          9272.0,
-          9272.0
+          9276.0,
+          9276.0
         ],
         "available_before": true,
         "available_now": true,
         "url": "https://us.cinco-store.com/products/unperfect-sphere-18k-diamond-ring",
         "key": "shopify:unperfect-sphere-18k-diamond-ring"
+      },
+      {
+        "type": "PRICE",
+        "title": "vera earrings",
+        "variant_label": "gold",
+        "category": "Earrings",
+        "old_price": [
+          165.0,
+          165.0
+        ],
+        "new_price": [
+          166.0,
+          166.0
+        ],
+        "available_before": true,
+        "available_now": true,
+        "url": "https://us.cinco-store.com/products/vera-earrings",
+        "key": "shopify:vera-earrings"
       },
       {
         "type": "PRICE",
@@ -31677,8 +31992,8 @@
           2003.0
         ],
         "new_price": [
-          1855.0,
-          2015.0
+          1856.0,
+          2016.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31695,8 +32010,8 @@
           1017.0
         ],
         "new_price": [
-          1022.0,
-          1022.0
+          1023.0,
+          1023.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31713,8 +32028,8 @@
           1209.0
         ],
         "new_price": [
-          1215.0,
-          1215.0
+          1216.0,
+          1216.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31738,9 +32053,9 @@
       }
     ],
     "counts": {
-      "new": 7,
+      "new": 6,
       "removed": 1,
-      "price": 164,
+      "price": 165,
       "restock": 0,
       "oos": 0
     },
@@ -31748,13 +32063,13 @@
     "baseline_time_utc": "2026-01-27T08:04:05+00:00",
     "sku_by_category": {
       "Earrings": 95,
-      "Necklaces": 93,
+      "Necklaces": 92,
       "Rings": 18
     },
     "price_buckets_total": {
       "0-50": 0,
       "50-100": 40,
-      "100-150": 34,
+      "100-150": 33,
       "150-200": 20,
       "200+": 112
     },
@@ -31769,7 +32084,7 @@
       "Necklaces": {
         "0-50": 0,
         "50-100": 13,
-        "100-150": 17,
+        "100-150": 16,
         "150-200": 4,
         "200+": 59
       },
@@ -32147,8 +32462,8 @@
           "key": "shopify:vera-earrings",
           "title": "vera earrings",
           "variant_label": "gold",
-          "min_price": 165.0,
-          "max_price": 165.0,
+          "min_price": 166.0,
+          "max_price": 166.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/vera-earrings"
         },
@@ -32354,8 +32669,8 @@
           "key": "shopify:balalai-stud-emerald",
           "title": "balalai stud 18k emerald",
           "variant_label": "",
-          "min_price": 371.0,
-          "max_price": 371.0,
+          "min_price": 372.0,
+          "max_price": 372.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/balalai-stud-emerald"
         },
@@ -32363,8 +32678,8 @@
           "key": "shopify:tomo-earrings",
           "title": "tomo earrings",
           "variant_label": "gold",
-          "min_price": 371.0,
-          "max_price": 371.0,
+          "min_price": 372.0,
+          "max_price": 372.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/tomo-earrings"
         },
@@ -32570,8 +32885,8 @@
           "key": "shopify:flower-18k-diamond-earrings",
           "title": "flower 18k diamonds earrings",
           "variant_label": "",
-          "min_price": 1471.0,
-          "max_price": 1471.0,
+          "min_price": 1472.0,
+          "max_price": 1472.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/flower-18k-diamond-earrings"
         },
@@ -32579,8 +32894,8 @@
           "key": "shopify:tilly-earrings-18k",
           "title": "tilly earrings 18k",
           "variant_label": "",
-          "min_price": 1599.0,
-          "max_price": 1599.0,
+          "min_price": 1600.0,
+          "max_price": 1600.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/tilly-earrings-18k"
         },
@@ -32588,8 +32903,8 @@
           "key": "shopify:pear-diamond-earrings-18k",
           "title": "pear diamond earrings 18k",
           "variant_label": "",
-          "min_price": 1919.0,
-          "max_price": 1919.0,
+          "min_price": 1920.0,
+          "max_price": 1920.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/pear-diamond-earrings-18k"
         },
@@ -32597,8 +32912,8 @@
           "key": "shopify:heptagon-huggies-18k",
           "title": "heptagon huggies 18k",
           "variant_label": "",
-          "min_price": 2239.0,
-          "max_price": 2239.0,
+          "min_price": 2240.0,
+          "max_price": 2240.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/heptagon-huggies-18k"
         },
@@ -32606,8 +32921,8 @@
           "key": "shopify:unending-18k-diamond-earrings",
           "title": "unending 18k diamond earrings",
           "variant_label": "",
-          "min_price": 2814.0,
-          "max_price": 2814.0,
+          "min_price": 2815.0,
+          "max_price": 2815.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/unending-18k-diamond-earrings"
         },
@@ -32615,8 +32930,8 @@
           "key": "shopify:diamond-dancing-huggies-18k",
           "title": "diamond dancing huggies 18k",
           "variant_label": "",
-          "min_price": 4029.0,
-          "max_price": 4029.0,
+          "min_price": 4031.0,
+          "max_price": 4031.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/diamond-dancing-huggies-18k"
         },
@@ -32624,8 +32939,8 @@
           "key": "shopify:diamond-floating-earrings-18k",
           "title": "diamond floating earrings 18k",
           "variant_label": "",
-          "min_price": 4157.0,
-          "max_price": 4157.0,
+          "min_price": 4159.0,
+          "max_price": 4159.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/diamond-floating-earrings-18k"
         },
@@ -32633,8 +32948,8 @@
           "key": "shopify:shaped-diamonds-earrings-18k",
           "title": "shaped diamond earrings 18k",
           "variant_label": "",
-          "min_price": 5052.0,
-          "max_price": 5052.0,
+          "min_price": 5054.0,
+          "max_price": 5054.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/shaped-diamonds-earrings-18k"
         }
@@ -32828,15 +33143,6 @@
           "max_price": 116.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/onyx-collar"
-        },
-        {
-          "key": "shopify:carnelian-collar",
-          "title": "carnelian collar",
-          "variant_label": "",
-          "min_price": 117.0,
-          "max_price": 117.0,
-          "available": true,
-          "url": "https://us.cinco-store.com/products/carnelian-collar"
         },
         {
           "key": "shopify:nico",
@@ -33283,8 +33589,8 @@
           "key": "shopify:mock-necklace-18k-emerald",
           "title": "mock necklace 18k emerald",
           "variant_label": "",
-          "min_price": 894.0,
-          "max_price": 894.0,
+          "min_price": 895.0,
+          "max_price": 895.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/mock-necklace-18k-emerald"
         },
@@ -33292,8 +33598,8 @@
           "key": "shopify:mock-necklace-18k",
           "title": "mock necklace 18k opala",
           "variant_label": "",
-          "min_price": 894.0,
-          "max_price": 894.0,
+          "min_price": 895.0,
+          "max_price": 895.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/mock-necklace-18k"
         },
@@ -33301,8 +33607,8 @@
           "key": "shopify:mock-rubi",
           "title": "mock necklace 18k rubi",
           "variant_label": "",
-          "min_price": 894.0,
-          "max_price": 894.0,
+          "min_price": 895.0,
+          "max_price": 895.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/mock-rubi"
         },
@@ -33337,8 +33643,8 @@
           "key": "shopify:hannah-neck-emerald",
           "title": "hannah necklace 18k emerald",
           "variant_label": "",
-          "min_price": 1150.0,
-          "max_price": 1150.0,
+          "min_price": 1151.0,
+          "max_price": 1151.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/hannah-neck-emerald"
         },
@@ -33346,8 +33652,8 @@
           "key": "shopify:steve",
           "title": "steve necklace 18k",
           "variant_label": "",
-          "min_price": 1215.0,
-          "max_price": 1215.0,
+          "min_price": 1216.0,
+          "max_price": 1216.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/steve"
         },
@@ -33355,8 +33661,8 @@
           "key": "shopify:the-starter-03",
           "title": "necklace starter 03 diamond",
           "variant_label": "",
-          "min_price": 1311.0,
-          "max_price": 1311.0,
+          "min_price": 1312.0,
+          "max_price": 1312.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/the-starter-03"
         },
@@ -33364,8 +33670,8 @@
           "key": "shopify:hannah-neck-diamond",
           "title": "hannah necklace 18k diamond",
           "variant_label": "",
-          "min_price": 1471.0,
-          "max_price": 1471.0,
+          "min_price": 1472.0,
+          "max_price": 1472.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/hannah-neck-diamond"
         },
@@ -33373,8 +33679,8 @@
           "key": "shopify:sinead",
           "title": "sinead necklace 18k diamond",
           "variant_label": "",
-          "min_price": 1534.0,
-          "max_price": 1534.0,
+          "min_price": 1535.0,
+          "max_price": 1535.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/sinead"
         },
@@ -33382,8 +33688,8 @@
           "key": "shopify:tatjana-diamond",
           "title": "tatjana 18k diamond",
           "variant_label": "",
-          "min_price": 1534.0,
-          "max_price": 1534.0,
+          "min_price": 1535.0,
+          "max_price": 1535.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/tatjana-diamond"
         },
@@ -33391,8 +33697,8 @@
           "key": "shopify:five-lucky-diamonds-18k-necklace",
           "title": "five lucky diamonds 18k necklace",
           "variant_label": "",
-          "min_price": 1631.0,
-          "max_price": 1631.0,
+          "min_price": 1632.0,
+          "max_price": 1632.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/five-lucky-diamonds-18k-necklace"
         },
@@ -33409,8 +33715,8 @@
           "key": "shopify:flower-18k-diamond-necklace",
           "title": "flower 18k diamonds necklace",
           "variant_label": "",
-          "min_price": 2111.0,
-          "max_price": 2111.0,
+          "min_price": 2112.0,
+          "max_price": 2112.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/flower-18k-diamond-necklace"
         },
@@ -33418,8 +33724,8 @@
           "key": "shopify:margarida-bezel-18k-diamond-necklace",
           "title": "margarida bezel 18k diamond necklace",
           "variant_label": "",
-          "min_price": 2173.0,
-          "max_price": 2173.0,
+          "min_price": 2174.0,
+          "max_price": 2174.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/margarida-bezel-18k-diamond-necklace"
         },
@@ -33427,8 +33733,8 @@
           "key": "shopify:emerald-and-diamond-18k-necklace",
           "title": "emerald and diamond 18k necklace",
           "variant_label": "",
-          "min_price": 2290.0,
-          "max_price": 2290.0,
+          "min_price": 2291.0,
+          "max_price": 2291.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/emerald-and-diamond-18k-necklace"
         },
@@ -33436,8 +33742,8 @@
           "key": "shopify:haze",
           "title": "haze necklace 18k diamond",
           "variant_label": "",
-          "min_price": 2545.0,
-          "max_price": 2545.0,
+          "min_price": 2547.0,
+          "max_price": 2547.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/haze"
         },
@@ -33445,8 +33751,8 @@
           "key": "shopify:pear-necklace-18k-diamond",
           "title": "pear necklace 18k diamond",
           "variant_label": "",
-          "min_price": 2846.0,
-          "max_price": 2846.0,
+          "min_price": 2847.0,
+          "max_price": 2847.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/pear-necklace-18k-diamond"
         },
@@ -33454,8 +33760,8 @@
           "key": "shopify:two-diamond-linked-18k-necklace",
           "title": "two diamonds linked 18k necklace",
           "variant_label": "",
-          "min_price": 4157.0,
-          "max_price": 4157.0,
+          "min_price": 4159.0,
+          "max_price": 4159.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/two-diamond-linked-18k-necklace"
         },
@@ -33463,8 +33769,8 @@
           "key": "shopify:unperfect-sphere-chain-18k-diamond-necklace",
           "title": "unperfect sphere chain 18k diamond necklace",
           "variant_label": "",
-          "min_price": 5755.0,
-          "max_price": 5755.0,
+          "min_price": 5758.0,
+          "max_price": 5758.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/unperfect-sphere-chain-18k-diamond-necklace"
         },
@@ -33472,8 +33778,8 @@
           "key": "shopify:bottle-long-18k-necklace",
           "title": "bottle long 18k necklace",
           "variant_label": "",
-          "min_price": 6075.0,
-          "max_price": 6075.0,
+          "min_price": 6078.0,
+          "max_price": 6078.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/bottle-long-18k-necklace"
         }
@@ -33573,8 +33879,8 @@
           "key": "shopify:we-18k-engagement-ring",
           "title": "we 18k engagement ring",
           "variant_label": "14 mm",
-          "min_price": 1022.0,
-          "max_price": 1022.0,
+          "min_price": 1023.0,
+          "max_price": 1023.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/we-18k-engagement-ring"
         },
@@ -33591,8 +33897,8 @@
           "key": "shopify:we-18k-engagement-with-diamond-ring",
           "title": "we 18k engagement with diamond ring",
           "variant_label": "14 mm",
-          "min_price": 1215.0,
-          "max_price": 1215.0,
+          "min_price": 1216.0,
+          "max_price": 1216.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/we-18k-engagement-with-diamond-ring"
         },
@@ -33600,8 +33906,8 @@
           "key": "shopify:board-ring-18k",
           "title": "board ring 18k",
           "variant_label": "14 mm",
-          "min_price": 1503.0,
-          "max_price": 1503.0,
+          "min_price": 1504.0,
+          "max_price": 1504.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/board-ring-18k"
         },
@@ -33609,8 +33915,8 @@
           "key": "shopify:li-18k-diamond-engagement-ring",
           "title": "we 18k engagement multiple diamonds ring",
           "variant_label": "14 mm",
-          "min_price": 1855.0,
-          "max_price": 2015.0,
+          "min_price": 1856.0,
+          "max_price": 2016.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/li-18k-diamond-engagement-ring"
         },
@@ -33618,8 +33924,8 @@
           "key": "shopify:teresa-ring-18k-diamond",
           "title": "teresa ring 18k diamond",
           "variant_label": "14 mm",
-          "min_price": 4157.0,
-          "max_price": 4157.0,
+          "min_price": 4159.0,
+          "max_price": 4159.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/teresa-ring-18k-diamond"
         },
@@ -33627,8 +33933,8 @@
           "key": "shopify:pinky-18k-diamond-ring",
           "title": "pinky 18k diamond ring",
           "variant_label": "14 mm",
-          "min_price": 6715.0,
-          "max_price": 6715.0,
+          "min_price": 6718.0,
+          "max_price": 6718.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/pinky-18k-diamond-ring"
         },
@@ -33636,17 +33942,17 @@
           "key": "shopify:unperfect-sphere-18k-diamond-ring",
           "title": "unperfect sphere 18k diamond ring",
           "variant_label": "14 mm",
-          "min_price": 9272.0,
-          "max_price": 9272.0,
+          "min_price": 9276.0,
+          "max_price": 9276.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/unperfect-sphere-18k-diamond-ring"
         }
       ]
     },
-    "product_total": 206,
+    "product_total": 205,
     "product_status": {
-      "total": 206,
-      "in_stock": 206,
+      "total": 205,
+      "in_stock": 205,
       "oos": 0
     },
     "bestsellers": [
