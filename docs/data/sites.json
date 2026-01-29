@@ -24889,7 +24889,7 @@
         {
           "key": "shopify:cloud-diamond-clicker-hoop-gold",
           "title": "Cloud diamond clicker hoop",
-          "variant_label": "6mm",
+          "variant_label": "5mm",
           "min_price": 122.0,
           "max_price": 208.0,
           "available": true,
@@ -28965,8 +28965,8 @@
         "category": "Earrings",
         "old_price": null,
         "new_price": [
-          1474.0,
-          1474.0
+          1477.0,
+          1477.0
         ],
         "available_before": null,
         "available_now": true,
@@ -28980,8 +28980,8 @@
         "category": "Necklaces",
         "old_price": null,
         "new_price": [
-          2114.0,
-          2114.0
+          2119.0,
+          2119.0
         ],
         "available_before": null,
         "available_now": true,
@@ -28995,8 +28995,8 @@
         "category": "Necklaces",
         "old_price": null,
         "new_price": [
-          2177.0,
-          2177.0
+          2182.0,
+          2182.0
         ],
         "available_before": null,
         "available_now": true,
@@ -29025,8 +29025,8 @@
         "category": "Necklaces",
         "old_price": null,
         "new_price": [
-          1921.0,
-          1921.0
+          1925.0,
+          1925.0
         ],
         "available_before": null,
         "available_now": true,
@@ -29040,8 +29040,8 @@
         "category": "Necklaces",
         "old_price": null,
         "new_price": [
-          5765.0,
-          5765.0
+          5779.0,
+          5779.0
         ],
         "available_before": null,
         "available_now": true,
@@ -29058,8 +29058,8 @@
           535.0
         ],
         "new_price": [
-          539.0,
-          539.0
+          540.0,
+          540.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29094,8 +29094,8 @@
           355.0
         ],
         "new_price": [
-          358.0,
-          358.0
+          359.0,
+          359.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29112,8 +29112,8 @@
           153.0
         ],
         "new_price": [
-          154.0,
-          154.0
+          155.0,
+          155.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29598,8 +29598,8 @@
           172.0
         ],
         "new_price": [
-          173.0,
-          173.0
+          174.0,
+          174.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29670,8 +29670,8 @@
           198.0
         ],
         "new_price": [
-          199.0,
-          199.0
+          200.0,
+          200.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29688,8 +29688,8 @@
           369.0
         ],
         "new_price": [
-          372.0,
-          372.0
+          373.0,
+          373.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29706,8 +29706,8 @@
           357.0
         ],
         "new_price": [
-          359.0,
-          359.0
+          360.0,
+          360.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29734,6 +29734,24 @@
       },
       {
         "type": "PRICE",
+        "title": "bela huggies",
+        "variant_label": "gold",
+        "category": "Earrings",
+        "old_price": [
+          77.0,
+          77.0
+        ],
+        "new_price": [
+          78.0,
+          78.0
+        ],
+        "available_before": true,
+        "available_now": true,
+        "url": "https://us.cinco-store.com/products/bela-huggies",
+        "key": "shopify:bela-huggies"
+      },
+      {
+        "type": "PRICE",
         "title": "belli stud 18k black diamond",
         "variant_label": "",
         "category": "Earrings",
@@ -29742,8 +29760,8 @@
           630.0
         ],
         "new_price": [
-          635.0,
-          635.0
+          636.0,
+          636.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29760,8 +29778,8 @@
           172.0
         ],
         "new_price": [
-          173.0,
-          173.0
+          174.0,
+          174.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29796,8 +29814,8 @@
           1495.0
         ],
         "new_price": [
-          1506.0,
-          1506.0
+          1509.0,
+          1509.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29814,8 +29832,8 @@
           6041.0
         ],
         "new_price": [
-          6086.0,
-          6086.0
+          6100.0,
+          6100.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29832,8 +29850,8 @@
           668.0
         ],
         "new_price": [
-          673.0,
-          673.0
+          675.0,
+          675.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29850,8 +29868,8 @@
           541.0
         ],
         "new_price": [
-          545.0,
-          545.0
+          546.0,
+          546.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29868,8 +29886,8 @@
           508.0
         ],
         "new_price": [
-          512.0,
-          512.0
+          513.0,
+          513.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29886,8 +29904,8 @@
           477.0
         ],
         "new_price": [
-          481.0,
-          481.0
+          482.0,
+          482.0
         ],
         "available_before": true,
         "available_now": true,
@@ -29922,13 +29940,31 @@
           317.0
         ],
         "new_price": [
-          319.0,
-          319.0
+          320.0,
+          320.0
         ],
         "available_before": true,
         "available_now": true,
         "url": "https://us.cinco-store.com/products/cheri-necklace",
         "key": "shopify:cheri-necklace"
+      },
+      {
+        "type": "PRICE",
+        "title": "coeur necklace",
+        "variant_label": "gold",
+        "category": "Necklaces",
+        "old_price": [
+          109.0,
+          109.0
+        ],
+        "new_price": [
+          110.0,
+          110.0
+        ],
+        "available_before": true,
+        "available_now": true,
+        "url": "https://us.cinco-store.com/products/coeur-necklace",
+        "key": "shopify:coeur-necklace"
       },
       {
         "type": "PRICE",
@@ -29965,6 +30001,24 @@
         "available_now": true,
         "url": "https://us.cinco-store.com/products/constantin-drop-necklace",
         "key": "shopify:constantin-drop-necklace"
+      },
+      {
+        "type": "PRICE",
+        "title": "constantin earrings",
+        "variant_label": "gold",
+        "category": "Earrings",
+        "old_price": [
+          109.0,
+          109.0
+        ],
+        "new_price": [
+          110.0,
+          110.0
+        ],
+        "available_before": true,
+        "available_now": true,
+        "url": "https://us.cinco-store.com/products/constatin-earring",
+        "key": "shopify:constatin-earring"
       },
       {
         "type": "PRICE",
@@ -30066,8 +30120,8 @@
           4006.0
         ],
         "new_price": [
-          4036.0,
-          4036.0
+          4045.0,
+          4045.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30084,8 +30138,8 @@
           4133.0
         ],
         "new_price": [
-          4164.0,
-          4164.0
+          4174.0,
+          4174.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30102,8 +30156,8 @@
           153.0
         ],
         "new_price": [
-          154.0,
-          154.0
+          155.0,
+          155.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30138,8 +30192,8 @@
           922.0
         ],
         "new_price": [
-          929.0,
-          929.0
+          931.0,
+          931.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30156,8 +30210,8 @@
           508.0
         ],
         "new_price": [
-          512.0,
-          512.0
+          513.0,
+          513.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30174,8 +30228,8 @@
           566.0
         ],
         "new_price": [
-          571.0,
-          571.0
+          572.0,
+          572.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30264,8 +30318,8 @@
           2277.0
         ],
         "new_price": [
-          2294.0,
-          2294.0
+          2299.0,
+          2299.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30354,8 +30408,8 @@
           407.0
         ],
         "new_price": [
-          410.0,
-          410.0
+          411.0,
+          411.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30372,8 +30426,8 @@
           236.0
         ],
         "new_price": [
-          237.0,
-          237.0
+          238.0,
+          238.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30408,8 +30462,8 @@
           1622.0
         ],
         "new_price": [
-          1634.0,
-          1634.0
+          1638.0,
+          1638.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30516,8 +30570,8 @@
           477.0
         ],
         "new_price": [
-          481.0,
-          481.0
+          482.0,
+          482.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30534,8 +30588,8 @@
           126.0
         ],
         "new_price": [
-          127.0,
-          127.0
+          128.0,
+          128.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30552,8 +30606,8 @@
           126.0
         ],
         "new_price": [
-          127.0,
-          127.0
+          128.0,
+          128.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30606,8 +30660,8 @@
           1132.0
         ],
         "new_price": [
-          1141.0,
-          1141.0
+          1143.0,
+          1143.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30642,8 +30696,8 @@
           1463.0
         ],
         "new_price": [
-          1474.0,
-          1474.0
+          1477.0,
+          1477.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30660,8 +30714,8 @@
           1144.0
         ],
         "new_price": [
-          1152.0,
-          1152.0
+          1155.0,
+          1155.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30678,8 +30732,8 @@
           2531.0
         ],
         "new_price": [
-          2550.0,
-          2550.0
+          2556.0,
+          2556.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30696,8 +30750,8 @@
           2226.0
         ],
         "new_price": [
-          2242.0,
-          2242.0
+          2248.0,
+          2248.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30732,8 +30786,8 @@
           1113.0
         ],
         "new_price": [
-          1121.0,
-          1121.0
+          1124.0,
+          1124.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30750,8 +30804,8 @@
           605.0
         ],
         "new_price": [
-          609.0,
-          609.0
+          610.0,
+          610.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30822,13 +30876,31 @@
           172.0
         ],
         "new_price": [
-          173.0,
-          173.0
+          174.0,
+          174.0
         ],
         "available_before": true,
         "available_now": true,
         "url": "https://us.cinco-store.com/products/jodie-necklace",
         "key": "shopify:jodie-necklace"
+      },
+      {
+        "type": "PRICE",
+        "title": "jodie shaped necklace",
+        "variant_label": "gold",
+        "category": "Necklaces",
+        "old_price": [
+          109.0,
+          109.0
+        ],
+        "new_price": [
+          110.0,
+          110.0
+        ],
+        "available_before": true,
+        "available_now": true,
+        "url": "https://us.cinco-store.com/products/jodie-shaped-necklace",
+        "key": "shopify:jodie-shaped-necklace"
       },
       {
         "type": "PRICE",
@@ -30840,8 +30912,8 @@
           194.0
         ],
         "new_price": [
-          195.0,
-          195.0
+          196.0,
+          196.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30858,8 +30930,8 @@
           126.0
         ],
         "new_price": [
-          127.0,
-          127.0
+          128.0,
+          128.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30876,8 +30948,8 @@
           317.0
         ],
         "new_price": [
-          319.0,
-          319.0
+          320.0,
+          320.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30930,8 +31002,8 @@
           204.0
         ],
         "new_price": [
-          205.0,
-          205.0
+          206.0,
+          206.0
         ],
         "available_before": true,
         "available_now": true,
@@ -30984,8 +31056,8 @@
           922.0
         ],
         "new_price": [
-          929.0,
-          929.0
+          931.0,
+          931.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31002,8 +31074,8 @@
           622.0
         ],
         "new_price": [
-          627.0,
-          627.0
+          628.0,
+          628.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31020,8 +31092,8 @@
           248.0
         ],
         "new_price": [
-          250.0,
-          250.0
+          251.0,
+          251.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31092,8 +31164,8 @@
           198.0
         ],
         "new_price": [
-          199.0,
-          199.0
+          200.0,
+          200.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31110,8 +31182,8 @@
           153.0
         ],
         "new_price": [
-          154.0,
-          154.0
+          155.0,
+          155.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31218,8 +31290,8 @@
           185.0
         ],
         "new_price": [
-          186.0,
-          186.0
+          187.0,
+          187.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31254,8 +31326,8 @@
           1081.0
         ],
         "new_price": [
-          1089.0,
-          1089.0
+          1092.0,
+          1092.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31300,6 +31372,24 @@
       },
       {
         "type": "PRICE",
+        "title": "mini sarah earrings",
+        "variant_label": "gold",
+        "category": "Earrings",
+        "old_price": [
+          77.0,
+          77.0
+        ],
+        "new_price": [
+          78.0,
+          78.0
+        ],
+        "available_before": true,
+        "available_now": true,
+        "url": "https://us.cinco-store.com/products/mini-sarah-earrings",
+        "key": "shopify:mini-sarah-earrings"
+      },
+      {
+        "type": "PRICE",
         "title": "mini vera earrings",
         "variant_label": "gold",
         "category": "Earrings",
@@ -31308,8 +31398,8 @@
           126.0
         ],
         "new_price": [
-          127.0,
-          127.0
+          128.0,
+          128.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31326,8 +31416,8 @@
           153.0
         ],
         "new_price": [
-          154.0,
-          154.0
+          155.0,
+          155.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31344,8 +31434,8 @@
           889.0
         ],
         "new_price": [
-          896.0,
-          896.0
+          898.0,
+          898.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31362,8 +31452,8 @@
           889.0
         ],
         "new_price": [
-          896.0,
-          896.0
+          898.0,
+          898.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31380,8 +31470,8 @@
           889.0
         ],
         "new_price": [
-          896.0,
-          896.0
+          898.0,
+          898.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31398,8 +31488,8 @@
           1050.0
         ],
         "new_price": [
-          1057.0,
-          1057.0
+          1060.0,
+          1060.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31416,8 +31506,8 @@
           732.0
         ],
         "new_price": [
-          737.0,
-          737.0
+          739.0,
+          739.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31452,8 +31542,8 @@
           922.0
         ],
         "new_price": [
-          929.0,
-          929.0
+          931.0,
+          931.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31470,8 +31560,8 @@
           1304.0
         ],
         "new_price": [
-          1314.0,
-          1314.0
+          1317.0,
+          1317.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31488,8 +31578,8 @@
           117.0
         ],
         "new_price": [
-          118.0,
-          118.0
+          119.0,
+          119.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31506,8 +31596,8 @@
           495.0
         ],
         "new_price": [
-          499.0,
-          499.0
+          500.0,
+          500.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31542,8 +31632,8 @@
           317.0
         ],
         "new_price": [
-          319.0,
-          319.0
+          320.0,
+          320.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31614,8 +31704,8 @@
           1908.0
         ],
         "new_price": [
-          1922.0,
-          1922.0
+          1927.0,
+          1927.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31632,8 +31722,8 @@
           2830.0
         ],
         "new_price": [
-          2851.0,
-          2851.0
+          2858.0,
+          2858.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31651,7 +31741,7 @@
         ],
         "new_price": [
           140.0,
-          173.0
+          174.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31686,8 +31776,8 @@
           6677.0
         ],
         "new_price": [
-          6726.0,
-          6726.0
+          6742.0,
+          6742.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31711,6 +31801,24 @@
         "available_now": true,
         "url": "https://us.cinco-store.com/products/rosie-earrings",
         "key": "shopify:rosie-earrings"
+      },
+      {
+        "type": "PRICE",
+        "title": "sabina huggies",
+        "variant_label": "gold",
+        "category": "Earrings",
+        "old_price": [
+          77.0,
+          77.0
+        ],
+        "new_price": [
+          78.0,
+          78.0
+        ],
+        "available_before": true,
+        "available_now": true,
+        "url": "https://us.cinco-store.com/products/sabina-huggies",
+        "key": "shopify:sabina-huggies"
       },
       {
         "type": "PRICE",
@@ -31740,8 +31848,8 @@
           700.0
         ],
         "new_price": [
-          705.0,
-          705.0
+          707.0,
+          707.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31758,8 +31866,8 @@
           541.0
         ],
         "new_price": [
-          545.0,
-          545.0
+          546.0,
+          546.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31776,8 +31884,8 @@
           508.0
         ],
         "new_price": [
-          512.0,
-          512.0
+          513.0,
+          513.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31812,8 +31920,8 @@
           140.0
         ],
         "new_price": [
-          141.0,
-          141.0
+          142.0,
+          142.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31848,8 +31956,8 @@
           5024.0
         ],
         "new_price": [
-          5061.0,
-          5061.0
+          5073.0,
+          5073.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31866,8 +31974,8 @@
           236.0
         ],
         "new_price": [
-          237.0,
-          237.0
+          238.0,
+          238.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31884,8 +31992,8 @@
           1525.0
         ],
         "new_price": [
-          1536.0,
-          1536.0
+          1540.0,
+          1540.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31902,8 +32010,8 @@
           624.0
         ],
         "new_price": [
-          628.0,
-          628.0
+          630.0,
+          630.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31920,8 +32028,8 @@
           1132.0
         ],
         "new_price": [
-          1141.0,
-          1141.0
+          1143.0,
+          1143.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31938,8 +32046,8 @@
           1209.0
         ],
         "new_price": [
-          1218.0,
-          1218.0
+          1220.0,
+          1220.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31956,8 +32064,8 @@
           236.0
         ],
         "new_price": [
-          237.0,
-          237.0
+          238.0,
+          238.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31974,8 +32082,8 @@
           1525.0
         ],
         "new_price": [
-          1536.0,
-          1536.0
+          1540.0,
+          1540.0
         ],
         "available_before": true,
         "available_now": true,
@@ -31992,8 +32100,8 @@
           4133.0
         ],
         "new_price": [
-          4164.0,
-          4164.0
+          4174.0,
+          4174.0
         ],
         "available_before": true,
         "available_now": true,
@@ -32028,8 +32136,8 @@
           1113.0
         ],
         "new_price": [
-          1121.0,
-          1121.0
+          1124.0,
+          1124.0
         ],
         "available_before": true,
         "available_now": true,
@@ -32064,8 +32172,8 @@
           1590.0
         ],
         "new_price": [
-          1602.0,
-          1602.0
+          1606.0,
+          1606.0
         ],
         "available_before": true,
         "available_now": true,
@@ -32082,13 +32190,31 @@
           185.0
         ],
         "new_price": [
-          186.0,
-          186.0
+          187.0,
+          187.0
         ],
         "available_before": true,
         "available_now": true,
         "url": "https://us.cinco-store.com/products/ring-tilly1",
         "key": "shopify:ring-tilly1"
+      },
+      {
+        "type": "PRICE",
+        "title": "tina earrings",
+        "variant_label": "gold",
+        "category": "Earrings",
+        "old_price": [
+          109.0,
+          109.0
+        ],
+        "new_price": [
+          110.0,
+          110.0
+        ],
+        "available_before": true,
+        "available_now": true,
+        "url": "https://us.cinco-store.com/products/tina",
+        "key": "shopify:tina"
       },
       {
         "type": "PRICE",
@@ -32118,8 +32244,8 @@
           369.0
         ],
         "new_price": [
-          372.0,
-          372.0
+          373.0,
+          373.0
         ],
         "available_before": true,
         "available_now": true,
@@ -32136,8 +32262,8 @@
           4133.0
         ],
         "new_price": [
-          4164.0,
-          4164.0
+          4174.0,
+          4174.0
         ],
         "available_before": true,
         "available_now": true,
@@ -32154,8 +32280,8 @@
           2798.0
         ],
         "new_price": [
-          2819.0,
-          2819.0
+          2826.0,
+          2826.0
         ],
         "available_before": true,
         "available_now": true,
@@ -32172,8 +32298,8 @@
           9220.0
         ],
         "new_price": [
-          9288.0,
-          9288.0
+          9310.0,
+          9310.0
         ],
         "available_before": true,
         "available_now": true,
@@ -32208,8 +32334,8 @@
           248.0
         ],
         "new_price": [
-          250.0,
-          250.0
+          251.0,
+          251.0
         ],
         "available_before": true,
         "available_now": true,
@@ -32226,8 +32352,8 @@
           2003.0
         ],
         "new_price": [
-          1858.0,
-          2018.0
+          1862.0,
+          2023.0
         ],
         "available_before": true,
         "available_now": true,
@@ -32244,8 +32370,8 @@
           1017.0
         ],
         "new_price": [
-          1024.0,
-          1024.0
+          1026.0,
+          1026.0
         ],
         "available_before": true,
         "available_now": true,
@@ -32262,8 +32388,8 @@
           1209.0
         ],
         "new_price": [
-          1218.0,
-          1218.0
+          1220.0,
+          1220.0
         ],
         "available_before": true,
         "available_now": true,
@@ -32289,7 +32415,7 @@
     "counts": {
       "new": 6,
       "removed": 1,
-      "price": 179,
+      "price": 186,
       "restock": 0,
       "oos": 0
     },
@@ -32304,16 +32430,16 @@
       "0-50": 0,
       "50-100": 40,
       "100-150": 33,
-      "150-200": 20,
-      "200+": 112
+      "150-200": 18,
+      "200+": 114
     },
     "price_buckets_by_category": {
       "Earrings": {
         "0-50": 0,
         "50-100": 21,
         "100-150": 15,
-        "150-200": 14,
-        "200+": 45
+        "150-200": 12,
+        "200+": 47
       },
       "Necklaces": {
         "0-50": 0,
@@ -32408,8 +32534,8 @@
           "key": "shopify:bela-huggies",
           "title": "bela huggies",
           "variant_label": "gold",
-          "min_price": 77.0,
-          "max_price": 77.0,
+          "min_price": 78.0,
+          "max_price": 78.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/bela-huggies"
         },
@@ -32417,8 +32543,8 @@
           "key": "shopify:mini-sarah-earrings",
           "title": "mini sarah earrings",
           "variant_label": "gold",
-          "min_price": 77.0,
-          "max_price": 77.0,
+          "min_price": 78.0,
+          "max_price": 78.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/mini-sarah-earrings"
         },
@@ -32426,8 +32552,8 @@
           "key": "shopify:sabina-huggies",
           "title": "sabina huggies",
           "variant_label": "gold",
-          "min_price": 77.0,
-          "max_price": 77.0,
+          "min_price": 78.0,
+          "max_price": 78.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/sabina-huggies"
         },
@@ -32543,8 +32669,8 @@
           "key": "shopify:constatin-earring",
           "title": "constantin earrings",
           "variant_label": "gold",
-          "min_price": 109.0,
-          "max_price": 109.0,
+          "min_price": 110.0,
+          "max_price": 110.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/constatin-earring"
         },
@@ -32552,8 +32678,8 @@
           "key": "shopify:tina",
           "title": "tina earrings",
           "variant_label": "gold",
-          "min_price": 109.0,
-          "max_price": 109.0,
+          "min_price": 110.0,
+          "max_price": 110.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/tina"
         },
@@ -32597,8 +32723,8 @@
           "key": "shopify:gina",
           "title": "gina earrings",
           "variant_label": "gold",
-          "min_price": 127.0,
-          "max_price": 127.0,
+          "min_price": 128.0,
+          "max_price": 128.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/gina"
         },
@@ -32606,8 +32732,8 @@
           "key": "shopify:mini-vera",
           "title": "mini vera earrings",
           "variant_label": "gold",
-          "min_price": 127.0,
-          "max_price": 127.0,
+          "min_price": 128.0,
+          "max_price": 128.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/mini-vera"
         },
@@ -32624,8 +32750,8 @@
           "key": "shopify:sarah-huggies",
           "title": "sarah huggies",
           "variant_label": "gold",
-          "min_price": 141.0,
-          "max_price": 141.0,
+          "min_price": 142.0,
+          "max_price": 142.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/sarah-huggies"
         },
@@ -32669,8 +32795,8 @@
           "key": "shopify:alma-earrings",
           "title": "alma earrings",
           "variant_label": "gold",
-          "min_price": 154.0,
-          "max_price": 154.0,
+          "min_price": 155.0,
+          "max_price": 155.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/alma-earrings"
         },
@@ -32678,8 +32804,8 @@
           "key": "shopify:magda-huggies",
           "title": "magda huggies",
           "variant_label": "gold",
-          "min_price": 154.0,
-          "max_price": 154.0,
+          "min_price": 155.0,
+          "max_price": 155.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/magda-huggies"
         },
@@ -32687,8 +32813,8 @@
           "key": "shopify:miu-huggies",
           "title": "miu huggies",
           "variant_label": "gold",
-          "min_price": 154.0,
-          "max_price": 154.0,
+          "min_price": 155.0,
+          "max_price": 155.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/miu-huggies"
         },
@@ -32714,8 +32840,8 @@
           "key": "shopify:amina-double-layer-earrings",
           "title": "amina double layer earrings",
           "variant_label": "gold",
-          "min_price": 173.0,
-          "max_price": 173.0,
+          "min_price": 174.0,
+          "max_price": 174.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/amina-double-layer-earrings"
         },
@@ -32723,8 +32849,8 @@
           "key": "shopify:bia-earrings",
           "title": "bia earrings",
           "variant_label": "gold",
-          "min_price": 173.0,
-          "max_price": 173.0,
+          "min_price": 174.0,
+          "max_price": 174.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/bia-earrings"
         },
@@ -32750,8 +32876,8 @@
           "key": "shopify:maxi-tilly-earrings",
           "title": "maxi tilly earrings",
           "variant_label": "gold",
-          "min_price": 186.0,
-          "max_price": 186.0,
+          "min_price": 187.0,
+          "max_price": 187.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/maxi-tilly-earrings"
         },
@@ -32768,8 +32894,8 @@
           "key": "shopify:bailey",
           "title": "bailey earrings",
           "variant_label": "gold",
-          "min_price": 199.0,
-          "max_price": 199.0,
+          "min_price": 200.0,
+          "max_price": 200.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/bailey"
         },
@@ -32777,8 +32903,8 @@
           "key": "shopify:magda",
           "title": "magda earrings",
           "variant_label": "gold",
-          "min_price": 199.0,
-          "max_price": 199.0,
+          "min_price": 200.0,
+          "max_price": 200.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/magda"
         },
@@ -32786,8 +32912,8 @@
           "key": "shopify:lara-earrings",
           "title": "lara earrings",
           "variant_label": "",
-          "min_price": 205.0,
-          "max_price": 205.0,
+          "min_price": 206.0,
+          "max_price": 206.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/lara-earrings"
         },
@@ -32831,8 +32957,8 @@
           "key": "shopify:fiona-earrings",
           "title": "fiona earrings",
           "variant_label": "gold",
-          "min_price": 237.0,
-          "max_price": 237.0,
+          "min_price": 238.0,
+          "max_price": 238.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/fiona-earrings"
         },
@@ -32840,8 +32966,8 @@
           "key": "shopify:sia-earrings1",
           "title": "sia earrings",
           "variant_label": "gold",
-          "min_price": 237.0,
-          "max_price": 237.0,
+          "min_price": 238.0,
+          "max_price": 238.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/sia-earrings1"
         },
@@ -32849,8 +32975,8 @@
           "key": "shopify:tilly-super-earrings",
           "title": "super tilly earrings",
           "variant_label": "gold",
-          "min_price": 237.0,
-          "max_price": 237.0,
+          "min_price": 238.0,
+          "max_price": 238.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/tilly-super-earrings"
         },
@@ -32858,8 +32984,8 @@
           "key": "shopify:violet-earrings",
           "title": "violet earrings",
           "variant_label": "gold",
-          "min_price": 250.0,
-          "max_price": 250.0,
+          "min_price": 251.0,
+          "max_price": 251.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/violet-earrings"
         },
@@ -32876,8 +33002,8 @@
           "key": "shopify:laila",
           "title": "laila earring 18k opala",
           "variant_label": "",
-          "min_price": 319.0,
-          "max_price": 319.0,
+          "min_price": 320.0,
+          "max_price": 320.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/laila"
         },
@@ -32885,8 +33011,8 @@
           "key": "shopify:pam-earrings",
           "title": "pam earrings",
           "variant_label": "gold",
-          "min_price": 319.0,
-          "max_price": 319.0,
+          "min_price": 320.0,
+          "max_price": 320.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/pam-earrings"
         },
@@ -32894,8 +33020,8 @@
           "key": "shopify:balalai-stud-opala",
           "title": "balalai stud 18k opala",
           "variant_label": "",
-          "min_price": 359.0,
-          "max_price": 359.0,
+          "min_price": 360.0,
+          "max_price": 360.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/balalai-stud-opala"
         },
@@ -32903,8 +33029,8 @@
           "key": "shopify:balalai-stud-emerald",
           "title": "balalai stud 18k emerald",
           "variant_label": "",
-          "min_price": 372.0,
-          "max_price": 372.0,
+          "min_price": 373.0,
+          "max_price": 373.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/balalai-stud-emerald"
         },
@@ -32912,8 +33038,8 @@
           "key": "shopify:tomo-earrings",
           "title": "tomo earrings",
           "variant_label": "gold",
-          "min_price": 372.0,
-          "max_price": 372.0,
+          "min_price": 373.0,
+          "max_price": 373.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/tomo-earrings"
         },
@@ -32939,8 +33065,8 @@
           "key": "shopify:fiona-double-earrings",
           "title": "fiona double earrings",
           "variant_label": "gold",
-          "min_price": 410.0,
-          "max_price": 410.0,
+          "min_price": 411.0,
+          "max_price": 411.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/fiona-double-earrings"
         },
@@ -32948,8 +33074,8 @@
           "key": "shopify:cate-hoop-turquoise",
           "title": "cate hoop 18k turquoise",
           "variant_label": "",
-          "min_price": 481.0,
-          "max_price": 481.0,
+          "min_price": 482.0,
+          "max_price": 482.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/cate-hoop-turquoise"
         },
@@ -32957,8 +33083,8 @@
           "key": "shopify:gimlet-stud-18k-diamond",
           "title": "gimlet stud 18k diamond",
           "variant_label": "",
-          "min_price": 481.0,
-          "max_price": 481.0,
+          "min_price": 482.0,
+          "max_price": 482.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/gimlet-stud-18k-diamond"
         },
@@ -32966,8 +33092,8 @@
           "key": "shopify:noun-emerald",
           "title": "noun stud emerald 18k",
           "variant_label": "",
-          "min_price": 499.0,
-          "max_price": 499.0,
+          "min_price": 500.0,
+          "max_price": 500.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/noun-emerald"
         },
@@ -32975,8 +33101,8 @@
           "key": "shopify:cate-hoop-rubi",
           "title": "cate hoop 18k rubi",
           "variant_label": "",
-          "min_price": 512.0,
-          "max_price": 512.0,
+          "min_price": 513.0,
+          "max_price": 513.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/cate-hoop-rubi"
         },
@@ -32984,8 +33110,8 @@
           "key": "shopify:salt-hoop-rubi",
           "title": "salt hoop 18k rubi",
           "variant_label": "",
-          "min_price": 512.0,
-          "max_price": 512.0,
+          "min_price": 513.0,
+          "max_price": 513.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/salt-hoop-rubi"
         },
@@ -32993,8 +33119,8 @@
           "key": "shopify:non-sphere-earrings-18k",
           "title": "(non)sphere earrings 18k",
           "variant_label": "",
-          "min_price": 539.0,
-          "max_price": 539.0,
+          "min_price": 540.0,
+          "max_price": 540.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/non-sphere-earrings-18k"
         },
@@ -33002,8 +33128,8 @@
           "key": "shopify:cate-hoop-emerald",
           "title": "cate hoop 18k emerald",
           "variant_label": "",
-          "min_price": 545.0,
-          "max_price": 545.0,
+          "min_price": 546.0,
+          "max_price": 546.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/cate-hoop-emerald"
         },
@@ -33011,8 +33137,8 @@
           "key": "shopify:salt-hoop-emerald",
           "title": "salt hoop 18k emerald",
           "variant_label": "",
-          "min_price": 545.0,
-          "max_price": 545.0,
+          "min_price": 546.0,
+          "max_price": 546.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/salt-hoop-emerald"
         },
@@ -33020,8 +33146,8 @@
           "key": "shopify:lime-hoop-rubi",
           "title": "lime hoop 18k rubi",
           "variant_label": "",
-          "min_price": 627.0,
-          "max_price": 627.0,
+          "min_price": 628.0,
+          "max_price": 628.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/lime-hoop-rubi"
         },
@@ -33029,8 +33155,8 @@
           "key": "shopify:smile-18k-diamond-earring",
           "title": "smile 18k diamond earring",
           "variant_label": "",
-          "min_price": 628.0,
-          "max_price": 628.0,
+          "min_price": 630.0,
+          "max_price": 630.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/smile-18k-diamond-earring"
         },
@@ -33038,8 +33164,8 @@
           "key": "shopify:belli",
           "title": "belli stud 18k black diamond",
           "variant_label": "",
-          "min_price": 635.0,
-          "max_price": 635.0,
+          "min_price": 636.0,
+          "max_price": 636.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/belli"
         },
@@ -33047,8 +33173,8 @@
           "key": "shopify:cate-hoop-diamond",
           "title": "cate hoop 18k diamond",
           "variant_label": "",
-          "min_price": 673.0,
-          "max_price": 673.0,
+          "min_price": 675.0,
+          "max_price": 675.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/cate-hoop-diamond"
         },
@@ -33056,8 +33182,8 @@
           "key": "shopify:salt-hoop-diamond",
           "title": "salt hoop 18k diamond",
           "variant_label": "",
-          "min_price": 705.0,
-          "max_price": 705.0,
+          "min_price": 707.0,
+          "max_price": 707.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/salt-hoop-diamond"
         },
@@ -33065,8 +33191,8 @@
           "key": "shopify:mush-emerald",
           "title": "mush stud 18k emerald",
           "variant_label": "",
-          "min_price": 737.0,
-          "max_price": 737.0,
+          "min_price": 739.0,
+          "max_price": 739.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/mush-emerald"
         },
@@ -33074,8 +33200,8 @@
           "key": "shopify:the-starter-8",
           "title": "earring starter 08 diamond",
           "variant_label": "",
-          "min_price": 929.0,
-          "max_price": 929.0,
+          "min_price": 931.0,
+          "max_price": 931.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/the-starter-8"
         },
@@ -33083,8 +33209,8 @@
           "key": "shopify:lime-hoop-diamond",
           "title": "lime hoop 18k diamond",
           "variant_label": "",
-          "min_price": 929.0,
-          "max_price": 929.0,
+          "min_price": 931.0,
+          "max_price": 931.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/lime-hoop-diamond"
         },
@@ -33092,8 +33218,8 @@
           "key": "shopify:mush-diamond",
           "title": "mush stud 18k diamond",
           "variant_label": "",
-          "min_price": 1057.0,
-          "max_price": 1057.0,
+          "min_price": 1060.0,
+          "max_price": 1060.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/mush-diamond"
         },
@@ -33101,8 +33227,8 @@
           "key": "shopify:the-starter-9",
           "title": "hoop starter 09 topaz",
           "variant_label": "",
-          "min_price": 1121.0,
-          "max_price": 1121.0,
+          "min_price": 1124.0,
+          "max_price": 1124.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/the-starter-9"
         },
@@ -33110,8 +33236,8 @@
           "key": "shopify:the-starter-6",
           "title": "the starter 06 earring diamond",
           "variant_label": "",
-          "min_price": 1121.0,
-          "max_price": 1121.0,
+          "min_price": 1124.0,
+          "max_price": 1124.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/the-starter-6"
         },
@@ -33119,8 +33245,8 @@
           "key": "shopify:flower-18k-diamond-earrings",
           "title": "flower 18k diamonds earrings",
           "variant_label": "",
-          "min_price": 1474.0,
-          "max_price": 1474.0,
+          "min_price": 1477.0,
+          "max_price": 1477.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/flower-18k-diamond-earrings"
         },
@@ -33128,8 +33254,8 @@
           "key": "shopify:tilly-earrings-18k",
           "title": "tilly earrings 18k",
           "variant_label": "",
-          "min_price": 1602.0,
-          "max_price": 1602.0,
+          "min_price": 1606.0,
+          "max_price": 1606.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/tilly-earrings-18k"
         },
@@ -33137,8 +33263,8 @@
           "key": "shopify:pear-diamond-earrings-18k",
           "title": "pear diamond earrings 18k",
           "variant_label": "",
-          "min_price": 1922.0,
-          "max_price": 1922.0,
+          "min_price": 1927.0,
+          "max_price": 1927.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/pear-diamond-earrings-18k"
         },
@@ -33146,8 +33272,8 @@
           "key": "shopify:heptagon-huggies-18k",
           "title": "heptagon huggies 18k",
           "variant_label": "",
-          "min_price": 2242.0,
-          "max_price": 2242.0,
+          "min_price": 2248.0,
+          "max_price": 2248.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/heptagon-huggies-18k"
         },
@@ -33155,8 +33281,8 @@
           "key": "shopify:unending-18k-diamond-earrings",
           "title": "unending 18k diamond earrings",
           "variant_label": "",
-          "min_price": 2819.0,
-          "max_price": 2819.0,
+          "min_price": 2826.0,
+          "max_price": 2826.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/unending-18k-diamond-earrings"
         },
@@ -33164,8 +33290,8 @@
           "key": "shopify:diamond-dancing-huggies-18k",
           "title": "diamond dancing huggies 18k",
           "variant_label": "",
-          "min_price": 4036.0,
-          "max_price": 4036.0,
+          "min_price": 4045.0,
+          "max_price": 4045.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/diamond-dancing-huggies-18k"
         },
@@ -33173,8 +33299,8 @@
           "key": "shopify:diamond-floating-earrings-18k",
           "title": "diamond floating earrings 18k",
           "variant_label": "",
-          "min_price": 4164.0,
-          "max_price": 4164.0,
+          "min_price": 4174.0,
+          "max_price": 4174.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/diamond-floating-earrings-18k"
         },
@@ -33182,8 +33308,8 @@
           "key": "shopify:shaped-diamonds-earrings-18k",
           "title": "shaped diamond earrings 18k",
           "variant_label": "",
-          "min_price": 5061.0,
-          "max_price": 5061.0,
+          "min_price": 5073.0,
+          "max_price": 5073.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/shaped-diamonds-earrings-18k"
         }
@@ -33346,8 +33472,8 @@
           "key": "shopify:coeur-necklace",
           "title": "coeur necklace",
           "variant_label": "gold",
-          "min_price": 109.0,
-          "max_price": 109.0,
+          "min_price": 110.0,
+          "max_price": 110.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/coeur-necklace"
         },
@@ -33355,8 +33481,8 @@
           "key": "shopify:jodie-shaped-necklace",
           "title": "jodie shaped necklace",
           "variant_label": "gold",
-          "min_price": 109.0,
-          "max_price": 109.0,
+          "min_price": 110.0,
+          "max_price": 110.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/jodie-shaped-necklace"
         },
@@ -33382,8 +33508,8 @@
           "key": "shopify:nico",
           "title": "nico necklace",
           "variant_label": "gold",
-          "min_price": 118.0,
-          "max_price": 118.0,
+          "min_price": 119.0,
+          "max_price": 119.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/nico"
         },
@@ -33418,8 +33544,8 @@
           "key": "shopify:ginger-necklace",
           "title": "ginger necklace",
           "variant_label": "gold",
-          "min_price": 127.0,
-          "max_price": 127.0,
+          "min_price": 128.0,
+          "max_price": 128.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/ginger-necklace"
         },
@@ -33427,8 +33553,8 @@
           "key": "shopify:klein-necklace",
           "title": "klein necklace",
           "variant_label": "gold",
-          "min_price": 127.0,
-          "max_price": 127.0,
+          "min_price": 128.0,
+          "max_price": 128.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/klein-necklace"
         },
@@ -33437,7 +33563,7 @@
           "title": "pernille necklace",
           "variant_label": "gold / 38 cm",
           "min_price": 140.0,
-          "max_price": 173.0,
+          "max_price": 174.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/pernille-necklace"
         },
@@ -33454,8 +33580,8 @@
           "key": "shopify:dona-margo-choker",
           "title": "dona margo choker",
           "variant_label": "Gold",
-          "min_price": 154.0,
-          "max_price": 154.0,
+          "min_price": 155.0,
+          "max_price": 155.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/dona-margo-choker"
         },
@@ -33472,8 +33598,8 @@
           "key": "shopify:jodie-necklace",
           "title": "jodie necklace",
           "variant_label": "gold",
-          "min_price": 173.0,
-          "max_price": 173.0,
+          "min_price": 174.0,
+          "max_price": 174.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/jodie-necklace"
         },
@@ -33517,8 +33643,8 @@
           "key": "shopify:little-arlo-choker",
           "title": "little arlo choker",
           "variant_label": "gold",
-          "min_price": 250.0,
-          "max_price": 250.0,
+          "min_price": 251.0,
+          "max_price": 251.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/little-arlo-choker"
         },
@@ -33769,8 +33895,8 @@
           "key": "shopify:cheri-necklace",
           "title": "chéri necklace",
           "variant_label": "silver",
-          "min_price": 319.0,
-          "max_price": 319.0,
+          "min_price": 320.0,
+          "max_price": 320.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/cheri-necklace"
         },
@@ -33778,8 +33904,8 @@
           "key": "shopify:allegra-necklace",
           "title": "allegra necklace",
           "variant_label": "gold",
-          "min_price": 358.0,
-          "max_price": 358.0,
+          "min_price": 359.0,
+          "max_price": 359.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/allegra-necklace"
         },
@@ -33796,8 +33922,8 @@
           "key": "shopify:eden-necklace",
           "title": "eden necklace",
           "variant_label": "gold",
-          "min_price": 512.0,
-          "max_price": 512.0,
+          "min_price": 513.0,
+          "max_price": 513.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/eden-necklace"
         },
@@ -33805,8 +33931,8 @@
           "key": "shopify:eli-choker",
           "title": "eli choker",
           "variant_label": "gold",
-          "min_price": 571.0,
-          "max_price": 571.0,
+          "min_price": 572.0,
+          "max_price": 572.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/eli-choker"
         },
@@ -33814,8 +33940,8 @@
           "key": "shopify:ivy",
           "title": "ivy necklace 18k",
           "variant_label": "",
-          "min_price": 609.0,
-          "max_price": 609.0,
+          "min_price": 610.0,
+          "max_price": 610.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/ivy"
         },
@@ -33823,8 +33949,8 @@
           "key": "shopify:mock-necklace-18k-emerald",
           "title": "mock necklace 18k emerald",
           "variant_label": "",
-          "min_price": 896.0,
-          "max_price": 896.0,
+          "min_price": 898.0,
+          "max_price": 898.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/mock-necklace-18k-emerald"
         },
@@ -33832,8 +33958,8 @@
           "key": "shopify:mock-necklace-18k",
           "title": "mock necklace 18k opala",
           "variant_label": "",
-          "min_price": 896.0,
-          "max_price": 896.0,
+          "min_price": 898.0,
+          "max_price": 898.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/mock-necklace-18k"
         },
@@ -33841,8 +33967,8 @@
           "key": "shopify:mock-rubi",
           "title": "mock necklace 18k rubi",
           "variant_label": "",
-          "min_price": 896.0,
-          "max_price": 896.0,
+          "min_price": 898.0,
+          "max_price": 898.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/mock-rubi"
         },
@@ -33850,8 +33976,8 @@
           "key": "shopify:natalia",
           "title": "natalia necklace 18k pearl",
           "variant_label": "",
-          "min_price": 929.0,
-          "max_price": 929.0,
+          "min_price": 931.0,
+          "max_price": 931.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/natalia"
         },
@@ -33859,8 +33985,8 @@
           "key": "shopify:miles",
           "title": "miles necklace 18k",
           "variant_label": "",
-          "min_price": 1089.0,
-          "max_price": 1089.0,
+          "min_price": 1092.0,
+          "max_price": 1092.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/miles"
         },
@@ -33868,8 +33994,8 @@
           "key": "shopify:goliath",
           "title": "goliath bia necklace",
           "variant_label": "gold",
-          "min_price": 1141.0,
-          "max_price": 1141.0,
+          "min_price": 1143.0,
+          "max_price": 1143.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/goliath"
         },
@@ -33877,8 +34003,8 @@
           "key": "shopify:hannah-neck-emerald",
           "title": "hannah necklace 18k emerald",
           "variant_label": "",
-          "min_price": 1152.0,
-          "max_price": 1152.0,
+          "min_price": 1155.0,
+          "max_price": 1155.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/hannah-neck-emerald"
         },
@@ -33886,8 +34012,8 @@
           "key": "shopify:steve",
           "title": "steve necklace 18k",
           "variant_label": "",
-          "min_price": 1218.0,
-          "max_price": 1218.0,
+          "min_price": 1220.0,
+          "max_price": 1220.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/steve"
         },
@@ -33895,8 +34021,8 @@
           "key": "shopify:the-starter-03",
           "title": "necklace starter 03 diamond",
           "variant_label": "",
-          "min_price": 1314.0,
-          "max_price": 1314.0,
+          "min_price": 1317.0,
+          "max_price": 1317.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/the-starter-03"
         },
@@ -33904,8 +34030,8 @@
           "key": "shopify:hannah-neck-diamond",
           "title": "hannah necklace 18k diamond",
           "variant_label": "",
-          "min_price": 1474.0,
-          "max_price": 1474.0,
+          "min_price": 1477.0,
+          "max_price": 1477.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/hannah-neck-diamond"
         },
@@ -33913,8 +34039,8 @@
           "key": "shopify:sinead",
           "title": "sinead necklace 18k diamond",
           "variant_label": "",
-          "min_price": 1536.0,
-          "max_price": 1536.0,
+          "min_price": 1540.0,
+          "max_price": 1540.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/sinead"
         },
@@ -33922,8 +34048,8 @@
           "key": "shopify:tatjana-diamond",
           "title": "tatjana 18k diamond",
           "variant_label": "",
-          "min_price": 1536.0,
-          "max_price": 1536.0,
+          "min_price": 1540.0,
+          "max_price": 1540.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/tatjana-diamond"
         },
@@ -33931,8 +34057,8 @@
           "key": "shopify:five-lucky-diamonds-18k-necklace",
           "title": "five lucky diamonds 18k necklace",
           "variant_label": "",
-          "min_price": 1634.0,
-          "max_price": 1634.0,
+          "min_price": 1638.0,
+          "max_price": 1638.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/five-lucky-diamonds-18k-necklace"
         },
@@ -33940,8 +34066,8 @@
           "key": "shopify:round-bezel-18k-diamond-necklace",
           "title": "round bezel 18k diamond necklace",
           "variant_label": "",
-          "min_price": 1921.0,
-          "max_price": 1921.0,
+          "min_price": 1925.0,
+          "max_price": 1925.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/round-bezel-18k-diamond-necklace"
         },
@@ -33949,8 +34075,8 @@
           "key": "shopify:flower-18k-diamond-necklace",
           "title": "flower 18k diamonds necklace",
           "variant_label": "",
-          "min_price": 2114.0,
-          "max_price": 2114.0,
+          "min_price": 2119.0,
+          "max_price": 2119.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/flower-18k-diamond-necklace"
         },
@@ -33958,8 +34084,8 @@
           "key": "shopify:margarida-bezel-18k-diamond-necklace",
           "title": "margarida bezel 18k diamond necklace",
           "variant_label": "",
-          "min_price": 2177.0,
-          "max_price": 2177.0,
+          "min_price": 2182.0,
+          "max_price": 2182.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/margarida-bezel-18k-diamond-necklace"
         },
@@ -33967,8 +34093,8 @@
           "key": "shopify:emerald-and-diamond-18k-necklace",
           "title": "emerald and diamond 18k necklace",
           "variant_label": "",
-          "min_price": 2294.0,
-          "max_price": 2294.0,
+          "min_price": 2299.0,
+          "max_price": 2299.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/emerald-and-diamond-18k-necklace"
         },
@@ -33976,8 +34102,8 @@
           "key": "shopify:haze",
           "title": "haze necklace 18k diamond",
           "variant_label": "",
-          "min_price": 2550.0,
-          "max_price": 2550.0,
+          "min_price": 2556.0,
+          "max_price": 2556.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/haze"
         },
@@ -33985,8 +34111,8 @@
           "key": "shopify:pear-necklace-18k-diamond",
           "title": "pear necklace 18k diamond",
           "variant_label": "",
-          "min_price": 2851.0,
-          "max_price": 2851.0,
+          "min_price": 2858.0,
+          "max_price": 2858.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/pear-necklace-18k-diamond"
         },
@@ -33994,8 +34120,8 @@
           "key": "shopify:two-diamond-linked-18k-necklace",
           "title": "two diamonds linked 18k necklace",
           "variant_label": "",
-          "min_price": 4164.0,
-          "max_price": 4164.0,
+          "min_price": 4174.0,
+          "max_price": 4174.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/two-diamond-linked-18k-necklace"
         },
@@ -34003,8 +34129,8 @@
           "key": "shopify:unperfect-sphere-chain-18k-diamond-necklace",
           "title": "unperfect sphere chain 18k diamond necklace",
           "variant_label": "",
-          "min_price": 5765.0,
-          "max_price": 5765.0,
+          "min_price": 5779.0,
+          "max_price": 5779.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/unperfect-sphere-chain-18k-diamond-necklace"
         },
@@ -34012,8 +34138,8 @@
           "key": "shopify:bottle-long-18k-necklace",
           "title": "bottle long 18k necklace",
           "variant_label": "",
-          "min_price": 6086.0,
-          "max_price": 6086.0,
+          "min_price": 6100.0,
+          "max_price": 6100.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/bottle-long-18k-necklace"
         }
@@ -34095,8 +34221,8 @@
           "key": "shopify:ring-tilly1",
           "title": "tilly ring",
           "variant_label": "gold / 15 mm",
-          "min_price": 186.0,
-          "max_price": 186.0,
+          "min_price": 187.0,
+          "max_price": 187.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/ring-tilly1"
         },
@@ -34104,8 +34230,8 @@
           "key": "shopify:jose",
           "title": "jose ring",
           "variant_label": "14 mm",
-          "min_price": 195.0,
-          "max_price": 195.0,
+          "min_price": 196.0,
+          "max_price": 196.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/jose"
         },
@@ -34113,8 +34239,8 @@
           "key": "shopify:we-18k-engagement-ring",
           "title": "we 18k engagement ring",
           "variant_label": "14 mm",
-          "min_price": 1024.0,
-          "max_price": 1024.0,
+          "min_price": 1026.0,
+          "max_price": 1026.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/we-18k-engagement-ring"
         },
@@ -34122,8 +34248,8 @@
           "key": "shopify:solitaire-diamond-ring",
           "title": "solitaire diamond ring 18k",
           "variant_label": "14 mm",
-          "min_price": 1141.0,
-          "max_price": 1141.0,
+          "min_price": 1143.0,
+          "max_price": 1143.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/solitaire-diamond-ring"
         },
@@ -34131,8 +34257,8 @@
           "key": "shopify:we-18k-engagement-with-diamond-ring",
           "title": "we 18k engagement with diamond ring",
           "variant_label": "14 mm",
-          "min_price": 1218.0,
-          "max_price": 1218.0,
+          "min_price": 1220.0,
+          "max_price": 1220.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/we-18k-engagement-with-diamond-ring"
         },
@@ -34140,8 +34266,8 @@
           "key": "shopify:board-ring-18k",
           "title": "board ring 18k",
           "variant_label": "14 mm",
-          "min_price": 1506.0,
-          "max_price": 1506.0,
+          "min_price": 1509.0,
+          "max_price": 1509.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/board-ring-18k"
         },
@@ -34149,8 +34275,8 @@
           "key": "shopify:li-18k-diamond-engagement-ring",
           "title": "we 18k engagement multiple diamonds ring",
           "variant_label": "14 mm",
-          "min_price": 1858.0,
-          "max_price": 2018.0,
+          "min_price": 1862.0,
+          "max_price": 2023.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/li-18k-diamond-engagement-ring"
         },
@@ -34158,8 +34284,8 @@
           "key": "shopify:teresa-ring-18k-diamond",
           "title": "teresa ring 18k diamond",
           "variant_label": "14 mm",
-          "min_price": 4164.0,
-          "max_price": 4164.0,
+          "min_price": 4174.0,
+          "max_price": 4174.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/teresa-ring-18k-diamond"
         },
@@ -34167,8 +34293,8 @@
           "key": "shopify:pinky-18k-diamond-ring",
           "title": "pinky 18k diamond ring",
           "variant_label": "14 mm",
-          "min_price": 6726.0,
-          "max_price": 6726.0,
+          "min_price": 6742.0,
+          "max_price": 6742.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/pinky-18k-diamond-ring"
         },
@@ -34176,8 +34302,8 @@
           "key": "shopify:unperfect-sphere-18k-diamond-ring",
           "title": "unperfect sphere 18k diamond ring",
           "variant_label": "14 mm",
-          "min_price": 9288.0,
-          "max_price": 9288.0,
+          "min_price": 9310.0,
+          "max_price": 9310.0,
           "available": true,
           "url": "https://us.cinco-store.com/products/unperfect-sphere-18k-diamond-ring"
         }
@@ -34201,8 +34327,8 @@
       {
         "title": "maxi tilly earrings",
         "variant_label": "gold",
-        "min_price": 186.0,
-        "max_price": 186.0,
+        "min_price": 187.0,
+        "max_price": 187.0,
         "available": true,
         "url": "https://us.cinco-store.com/products/maxi-tilly-earrings"
       },
@@ -34225,8 +34351,8 @@
       {
         "title": "fiona double earrings",
         "variant_label": "gold",
-        "min_price": 410.0,
-        "max_price": 410.0,
+        "min_price": 411.0,
+        "max_price": 411.0,
         "available": true,
         "url": "https://us.cinco-store.com/products/fiona-double-earrings"
       },
@@ -34241,8 +34367,8 @@
       {
         "title": "gina earrings",
         "variant_label": "gold",
-        "min_price": 127.0,
-        "max_price": 127.0,
+        "min_price": 128.0,
+        "max_price": 128.0,
         "available": true,
         "url": "https://us.cinco-store.com/products/gina"
       },
@@ -34257,8 +34383,8 @@
       {
         "title": "coeur necklace",
         "variant_label": "gold",
-        "min_price": 109.0,
-        "max_price": 109.0,
+        "min_price": 110.0,
+        "max_price": 110.0,
         "available": true,
         "url": "https://us.cinco-store.com/products/coeur-necklace"
       },
@@ -34273,32 +34399,32 @@
       {
         "title": "sabina huggies",
         "variant_label": "gold",
-        "min_price": 77.0,
-        "max_price": 77.0,
+        "min_price": 78.0,
+        "max_price": 78.0,
         "available": true,
         "url": "https://us.cinco-store.com/products/sabina-huggies"
       },
       {
         "title": "sage bracelet",
         "variant_label": "gold",
-        "min_price": 217.0,
-        "max_price": 217.0,
+        "min_price": 218.0,
+        "max_price": 218.0,
         "available": true,
         "url": "https://us.cinco-store.com/products/sage-bracelet"
       },
       {
         "title": "sarah huggies",
         "variant_label": "gold",
-        "min_price": 141.0,
-        "max_price": 141.0,
+        "min_price": 142.0,
+        "max_price": 142.0,
         "available": true,
         "url": "https://us.cinco-store.com/products/sarah-huggies"
       },
       {
         "title": "miu huggies",
         "variant_label": "gold",
-        "min_price": 154.0,
-        "max_price": 154.0,
+        "min_price": 155.0,
+        "max_price": 155.0,
         "available": true,
         "url": "https://us.cinco-store.com/products/miu-huggies"
       },
@@ -34321,8 +34447,8 @@
       {
         "title": "super tilly earrings",
         "variant_label": "gold",
-        "min_price": 237.0,
-        "max_price": 237.0,
+        "min_price": 238.0,
+        "max_price": 238.0,
         "available": true,
         "url": "https://us.cinco-store.com/products/tilly-super-earrings"
       },
@@ -34337,8 +34463,8 @@
       {
         "title": "bela huggies",
         "variant_label": "gold",
-        "min_price": 77.0,
-        "max_price": 77.0,
+        "min_price": 78.0,
+        "max_price": 78.0,
         "available": true,
         "url": "https://us.cinco-store.com/products/bela-huggies"
       },
