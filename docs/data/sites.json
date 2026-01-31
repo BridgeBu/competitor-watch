@@ -197,7 +197,7 @@
       "oos": 0
     },
     "baseline_days": 3,
-    "baseline_time_utc": "2026-01-28T05:13:24+00:00",
+    "baseline_time_utc": "2026-01-28T05:21:07+00:00",
     "sku_by_category": {
       "Earrings": 281,
       "Necklaces": 457,
@@ -7895,7 +7895,7 @@
       "oos": 0
     },
     "baseline_days": 3,
-    "baseline_time_utc": "2026-01-28T05:13:27+00:00",
+    "baseline_time_utc": "2026-01-28T05:21:09+00:00",
     "sku_by_category": {
       "Earrings": 461,
       "Necklaces": 279,
@@ -15187,14 +15187,6 @@
         "url": "https://us.astridandmiyu.com/products/crystal-charm-huggies-in-rose-gold"
       },
       {
-        "title": "Serenity Pearl Beaded Necklace in Silver",
-        "variant_label": "",
-        "min_price": 125.0,
-        "max_price": 125.0,
-        "available": true,
-        "url": "https://us.astridandmiyu.com/products/serenity-pearl-necklace-in-silver"
-      },
-      {
         "title": "Navette Crystal Necklace in Rose Gold",
         "variant_label": "",
         "min_price": 120.0,
@@ -15209,6 +15201,14 @@
         "max_price": 125.0,
         "available": true,
         "url": "https://us.astridandmiyu.com/products/serenity-pearl-necklace-in-gold"
+      },
+      {
+        "title": "Serenity Pearl Beaded Necklace in Silver",
+        "variant_label": "",
+        "min_price": 125.0,
+        "max_price": 125.0,
+        "available": true,
+        "url": "https://us.astridandmiyu.com/products/serenity-pearl-necklace-in-silver"
       }
     ]
   },
@@ -15240,6 +15240,24 @@
         "key": "shopify:kiwi-cage-clicker-hoop-gold"
       },
       {
+        "type": "OOS",
+        "title": "Lalo hoop earring",
+        "variant_label": "",
+        "category": "Earrings",
+        "old_price": [
+          238.0,
+          238.0
+        ],
+        "new_price": [
+          238.0,
+          238.0
+        ],
+        "available_before": true,
+        "available_now": false,
+        "url": "https://www.adornmonde.com/products/lalo-hoop-earring-gold",
+        "key": "shopify:lalo-hoop-earring-gold"
+      },
+      {
         "type": "RESTOCK",
         "title": "Aspen huggie earring set",
         "variant_label": "",
@@ -15256,17 +15274,35 @@
         "available_now": true,
         "url": "https://www.adornmonde.com/products/aspen-huggie-earring-set-gold",
         "key": "shopify:aspen-huggie-earring-set-gold"
+      },
+      {
+        "type": "RESTOCK",
+        "title": "Kevin earring set",
+        "variant_label": "",
+        "category": "Earrings",
+        "old_price": [
+          168.0,
+          168.0
+        ],
+        "new_price": [
+          168.0,
+          168.0
+        ],
+        "available_before": false,
+        "available_now": true,
+        "url": "https://www.adornmonde.com/products/kevin-earring-set-gold",
+        "key": "shopify:kevin-earring-set-gold"
       }
     ],
     "counts": {
       "new": 0,
       "removed": 0,
       "price": 0,
-      "restock": 1,
-      "oos": 1
+      "restock": 2,
+      "oos": 2
     },
     "baseline_days": 3,
-    "baseline_time_utc": "2026-01-28T05:13:30+00:00",
+    "baseline_time_utc": "2026-01-28T05:21:12+00:00",
     "sku_by_category": {
       "Earrings": 437,
       "Necklaces": 42,
@@ -16594,7 +16630,7 @@
         {
           "key": "shopify:tege-piercing-gold",
           "title": "Tege micro piercing",
-          "variant_label": "6.5mm (internally threaded flat back)",
+          "variant_label": "5mm (internally threaded flat back)",
           "min_price": 144.0,
           "max_price": 144.0,
           "available": true,
@@ -17407,7 +17443,7 @@
           "variant_label": "",
           "min_price": 168.0,
           "max_price": 168.0,
-          "available": false,
+          "available": true,
           "url": "https://www.adornmonde.com/products/kevin-earring-set-gold"
         },
         {
@@ -18469,7 +18505,7 @@
           "variant_label": "",
           "min_price": 238.0,
           "max_price": 238.0,
-          "available": true,
+          "available": false,
           "url": "https://www.adornmonde.com/products/lalo-hoop-earring-gold"
         },
         {
@@ -23453,7 +23489,7 @@
       "oos": 0
     },
     "baseline_days": 3,
-    "baseline_time_utc": "2026-01-28T05:13:32+00:00",
+    "baseline_time_utc": "2026-01-28T05:21:14+00:00",
     "sku_by_category": {
       "Earrings": 95,
       "Necklaces": 91,
@@ -25540,41 +25576,11 @@
         "available_now": true,
         "url": "https://www.analuisa.com/products/huggie-earrings-toda-two-tone",
         "key": "generic:https://www.analuisa.com/products/huggie-earrings-toda-two-tone"
-      },
-      {
-        "type": "REMOVED",
-        "title": "Add an extra chic vibe to any  gold necklace with our necklace Chain Extender. Make every necklace more versatile and easy to style in a smart way.",
-        "variant_label": "",
-        "category": "Necklaces",
-        "old_price": [
-          125.0,
-          125.0
-        ],
-        "new_price": null,
-        "available_before": true,
-        "available_now": null,
-        "url": "https://www.analuisa.com/products/necklace-extender-chain-extender",
-        "key": "generic:https://www.analuisa.com/products/necklace-extender-chain-extender"
-      },
-      {
-        "type": "REMOVED",
-        "title": "Shop White Gold Chain Necklace",
-        "variant_label": "",
-        "category": "Necklaces",
-        "old_price": [
-          125.0,
-          125.0
-        ],
-        "new_price": null,
-        "available_before": true,
-        "available_now": null,
-        "url": "https://www.analuisa.com/products/white-gold-chain-white-gold-chain-necklace",
-        "key": "generic:https://www.analuisa.com/products/white-gold-chain-white-gold-chain-necklace"
       }
     ],
     "counts": {
       "new": 2,
-      "removed": 2,
+      "removed": 0,
       "price": 0,
       "restock": 0,
       "oos": 0
@@ -25583,13 +25589,13 @@
     "baseline_time_utc": "2026-01-28T05:22:16+00:00",
     "sku_by_category": {
       "Earrings": 49,
-      "Necklaces": 33,
+      "Necklaces": 36,
       "Rings": 27
     },
     "price_buckets_total": {
       "0-50": 17,
       "50-100": 1,
-      "100-150": 91,
+      "100-150": 94,
       "150-200": 0,
       "200+": 0
     },
@@ -25604,7 +25610,7 @@
       "Necklaces": {
         "0-50": 5,
         "50-100": 0,
-        "100-150": 28,
+        "100-150": 31,
         "150-200": 0,
         "200+": 0
       },
@@ -26107,6 +26113,15 @@
           "url": "https://www.analuisa.com/products/gold-pendant-necklace-pebble"
         },
         {
+          "key": "generic:https://www.analuisa.com/products/necklace-extender-chain-extender",
+          "title": "Add an extra chic vibe to any  gold necklace with our necklace Chain Extender. Make every necklace more versatile and easy to style in a smart way.",
+          "variant_label": "",
+          "min_price": 125.0,
+          "max_price": 125.0,
+          "available": true,
+          "url": "https://www.analuisa.com/products/necklace-extender-chain-extender"
+        },
+        {
           "key": "generic:https://www.analuisa.com/products/ball-chain-necklace-capri-silver",
           "title": "Always chic, this ball chain necklace plated in rhodium features a minimal design and polished finish making it the perfect piece no matter the occasion.",
           "variant_label": "",
@@ -26269,6 +26284,15 @@
           "url": "https://www.analuisa.com/products/puffed-heart-necklace-lev"
         },
         {
+          "key": "generic:https://www.analuisa.com/products/double-hoop-earrings-ashley/",
+          "title": "Searching for a great pair of hoops? Check out these Double Hoop Earrings Ashley and add a bit of fun and texture to your jewelry case.",
+          "variant_label": "",
+          "min_price": 125.0,
+          "max_price": 125.0,
+          "available": true,
+          "url": "https://www.analuisa.com/products/double-hoop-earrings-ashley/"
+        },
+        {
           "key": "generic:https://www.analuisa.com/products/heart-necklace-lev-small-silver",
           "title": "Shiny and chic, this heart necklace is plated in rhodium and features an adordable puffy heart pendant designed to add a lovely touch to every neckline.",
           "variant_label": "",
@@ -26303,6 +26327,15 @@
           "max_price": 125.0,
           "available": true,
           "url": "https://www.analuisa.com/products/silver-initial-necklace-letter-necklace"
+        },
+        {
+          "key": "generic:https://www.analuisa.com/products/white-gold-chain-white-gold-chain-necklace",
+          "title": "Shop White Gold Chain Necklace",
+          "variant_label": "",
+          "min_price": 125.0,
+          "max_price": 125.0,
+          "available": true,
+          "url": "https://www.analuisa.com/products/white-gold-chain-white-gold-chain-necklace"
         },
         {
           "key": "generic:https://www.analuisa.com/products/puffed-heart-necklace-lev-silver",
@@ -26605,10 +26638,10 @@
         }
       ]
     },
-    "product_total": 109,
+    "product_total": 112,
     "product_status": {
-      "total": 109,
-      "in_stock": 109,
+      "total": 112,
+      "in_stock": 112,
       "oos": 0
     },
     "bestsellers": []
