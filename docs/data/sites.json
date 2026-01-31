@@ -25,21 +25,6 @@
       },
       {
         "type": "NEW",
-        "title": "Molten Stacking Ring Set | 18ct Gold Vermeil/Cubic Zirconia",
-        "variant_label": "18ct Gold Vermeil/Cubic Zirconia / M",
-        "category": "Rings",
-        "old_price": null,
-        "new_price": [
-          115.0,
-          115.0
-        ],
-        "available_before": null,
-        "available_now": true,
-        "url": "https://www.missoma.com/products/molten-stacking-ring-set-18ct-gold-vermeil",
-        "key": "shopify:molten-stacking-ring-set-18ct-gold-vermeil"
-      },
-      {
-        "type": "NEW",
         "title": "Tennis Eternity Stacking Ring Set | 18ct Gold Vermeil/Sterling Silver/Cubic Zirconia",
         "variant_label": "18ct Gold Vermeil/Sterling Silver/Cubic Zirconia / M",
         "category": "Rings",
@@ -52,21 +37,6 @@
         "available_now": true,
         "url": "https://www.missoma.com/products/tennis-eternity-stacking-ring-set-18ct-gold-vermeil-sterling-silver-cubic-zirconia",
         "key": "shopify:tennis-eternity-stacking-ring-set-18ct-gold-vermeil-sterling-silver-cubic-zirconia"
-      },
-      {
-        "type": "REMOVED",
-        "title": "Enamel & Stone Dome Statement Ring",
-        "variant_label": "18ct Gold Vermeil/Midnight Blue / K",
-        "category": "Rings",
-        "old_price": [
-          129.0,
-          129.0
-        ],
-        "new_price": null,
-        "available_before": true,
-        "available_now": null,
-        "url": "https://www.missoma.com/products/enamel-stone-dome-statement-ring-18ct-gold-plated-vermeil-midnight-blue",
-        "key": "shopify:enamel-stone-dome-statement-ring-18ct-gold-plated-vermeil-midnight-blue"
       },
       {
         "type": "REMOVED",
@@ -169,35 +139,17 @@
         "available_now": true,
         "url": "https://www.missoma.com/products/savi-ridge-droplet-pendant-necklace-18ct-gold-plated",
         "key": "shopify:savi-ridge-droplet-pendant-necklace-18ct-gold-plated"
-      },
-      {
-        "type": "RESTOCK",
-        "title": "Savi Seed Pearl Beaded Necklace | Red Quartz & Pearl",
-        "variant_label": "18ct Gold Plated/Pearl & Red Quartz",
-        "category": "Necklaces",
-        "old_price": [
-          189.0,
-          189.0
-        ],
-        "new_price": [
-          189.0,
-          189.0
-        ],
-        "available_before": false,
-        "available_now": true,
-        "url": "https://www.missoma.com/products/savi-seed-pearl-beaded-necklace-18ct-gold-plated",
-        "key": "shopify:savi-seed-pearl-beaded-necklace-18ct-gold-plated"
       }
     ],
     "counts": {
-      "new": 3,
-      "removed": 3,
+      "new": 2,
+      "removed": 2,
       "price": 0,
-      "restock": 4,
+      "restock": 3,
       "oos": 1
     },
     "baseline_days": 3,
-    "baseline_time_utc": "2026-01-28T09:11:09+00:00",
+    "baseline_time_utc": "2026-01-28T13:24:09+00:00",
     "sku_by_category": {
       "Earrings": 281,
       "Necklaces": 457,
@@ -7172,7 +7124,7 @@
         {
           "key": "shopify:molten-stacking-ring-set-18ct-gold-vermeil",
           "title": "Molten Stacking Ring Set | 18ct Gold Vermeil/Cubic Zirconia",
-          "variant_label": "18ct Gold Vermeil/Cubic Zirconia / M",
+          "variant_label": "18ct Gold Vermeil/Cubic Zirconia / N",
           "min_price": 115.0,
           "max_price": 115.0,
           "available": true,
@@ -7895,7 +7847,7 @@
       "oos": 0
     },
     "baseline_days": 3,
-    "baseline_time_utc": "2026-01-28T09:11:12+00:00",
+    "baseline_time_utc": "2026-01-28T13:24:11+00:00",
     "sku_by_category": {
       "Earrings": 461,
       "Necklaces": 279,
@@ -15302,7 +15254,7 @@
       "oos": 2
     },
     "baseline_days": 3,
-    "baseline_time_utc": "2026-01-28T09:11:14+00:00",
+    "baseline_time_utc": "2026-01-28T13:24:13+00:00",
     "sku_by_category": {
       "Earrings": 437,
       "Necklaces": 42,
@@ -20714,8 +20666,8 @@
         "variant_label": "",
         "category": "Necklaces",
         "old_price": [
-          6096.0,
-          6096.0
+          6095.0,
+          6095.0
         ],
         "new_price": [
           6029.0,
@@ -21020,8 +20972,8 @@
         "variant_label": "",
         "category": "Earrings",
         "old_price": [
-          4171.0,
-          4171.0
+          4170.0,
+          4170.0
         ],
         "new_price": [
           4125.0,
@@ -21110,8 +21062,8 @@
         "variant_label": "gold",
         "category": "Necklaces",
         "old_price": [
-          572.0,
-          572.0
+          571.0,
+          571.0
         ],
         "new_price": [
           565.0,
@@ -21344,8 +21296,8 @@
         "variant_label": "",
         "category": "Necklaces",
         "old_price": [
-          1637.0,
-          1637.0
+          1636.0,
+          1636.0
         ],
         "new_price": [
           1619.0,
@@ -21380,8 +21332,8 @@
         "variant_label": "",
         "category": "Necklaces",
         "old_price": [
-          2118.0,
-          2118.0
+          2117.0,
+          2117.0
         ],
         "new_price": [
           2095.0,
@@ -21578,8 +21530,8 @@
         "variant_label": "gold",
         "category": "Necklaces",
         "old_price": [
-          1143.0,
-          1143.0
+          1142.0,
+          1142.0
         ],
         "new_price": [
           1130.0,
@@ -22154,8 +22106,8 @@
         "variant_label": "",
         "category": "Necklaces",
         "old_price": [
-          2181.0,
-          2181.0
+          2180.0,
+          2180.0
         ],
         "new_price": [
           2157.0,
@@ -22712,8 +22664,8 @@
         "variant_label": "",
         "category": "Necklaces",
         "old_price": [
-          2856.0,
-          2856.0
+          2855.0,
+          2855.0
         ],
         "new_price": [
           2824.0,
@@ -22766,8 +22718,8 @@
         "variant_label": "14 mm",
         "category": "Rings",
         "old_price": [
-          6737.0,
-          6737.0
+          6736.0,
+          6736.0
         ],
         "new_price": [
           6664.0,
@@ -22964,8 +22916,8 @@
         "variant_label": "",
         "category": "Earrings",
         "old_price": [
-          5069.0,
-          5069.0
+          5068.0,
+          5068.0
         ],
         "new_price": [
           5014.0,
@@ -23036,8 +22988,8 @@
         "variant_label": "14 mm",
         "category": "Rings",
         "old_price": [
-          1143.0,
-          1143.0
+          1142.0,
+          1142.0
         ],
         "new_price": [
           1130.0,
@@ -23054,8 +23006,8 @@
         "variant_label": "",
         "category": "Necklaces",
         "old_price": [
-          1220.0,
-          1220.0
+          1219.0,
+          1219.0
         ],
         "new_price": [
           1206.0,
@@ -23108,8 +23060,8 @@
         "variant_label": "14 mm",
         "category": "Rings",
         "old_price": [
-          4171.0,
-          4171.0
+          4170.0,
+          4170.0
         ],
         "new_price": [
           4125.0,
@@ -23270,8 +23222,8 @@
         "variant_label": "",
         "category": "Necklaces",
         "old_price": [
-          4171.0,
-          4171.0
+          4170.0,
+          4170.0
         ],
         "new_price": [
           4125.0,
@@ -23306,8 +23258,8 @@
         "variant_label": "14 mm",
         "category": "Rings",
         "old_price": [
-          9303.0,
-          9303.0
+          9302.0,
+          9302.0
         ],
         "new_price": [
           9202.0,
@@ -23324,8 +23276,8 @@
         "variant_label": "",
         "category": "Necklaces",
         "old_price": [
-          5775.0,
-          5775.0
+          5774.0,
+          5774.0
         ],
         "new_price": [
           5712.0,
@@ -23414,8 +23366,8 @@
         "variant_label": "14 mm",
         "category": "Rings",
         "old_price": [
-          1220.0,
-          1220.0
+          1219.0,
+          1219.0
         ],
         "new_price": [
           1206.0,
@@ -23450,7 +23402,7 @@
       "oos": 0
     },
     "baseline_days": 3,
-    "baseline_time_utc": "2026-01-28T09:11:16+00:00",
+    "baseline_time_utc": "2026-01-28T13:24:17+00:00",
     "sku_by_category": {
       "Earrings": 95,
       "Necklaces": 91,
@@ -25510,6 +25462,21 @@
     "changes": [
       {
         "type": "NEW",
+        "title": "Destined to stand out, these statement earrings plated in 14k gold feature a handcrafted marble blue design making them a unique touch to every ear stack.",
+        "variant_label": "",
+        "category": "Earrings",
+        "old_price": null,
+        "new_price": [
+          14.0,
+          14.0
+        ],
+        "available_before": null,
+        "available_now": true,
+        "url": "https://www.analuisa.com/products/statement-earrings-dakota-marble-blue",
+        "key": "generic:https://www.analuisa.com/products/statement-earrings-dakota-marble-blue"
+      },
+      {
+        "type": "NEW",
         "title": "Drop Earrings - Ash Double Two Tone Links | Ana Luisa Jewelry",
         "variant_label": "",
         "category": "Earrings",
@@ -25540,14 +25507,14 @@
       }
     ],
     "counts": {
-      "new": 2,
+      "new": 3,
       "removed": 0,
       "price": 0,
       "restock": 0,
       "oos": 0
     },
     "baseline_days": 3,
-    "baseline_time_utc": "2026-01-28T09:12:00+00:00",
+    "baseline_time_utc": "2026-01-28T13:25:32+00:00",
     "sku_by_category": {
       "Earrings": 49,
       "Necklaces": 36,
